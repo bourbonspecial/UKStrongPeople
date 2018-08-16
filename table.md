@@ -16,7 +16,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Molly Thompson-Smith|8b+|Mecca|
 |Rhoslyn Frugniet|8b|Lightning|
 |Ruth Jenkins|8b|Zeke the Freak|
-|Nat Berry|8b|Satan X|
+|Natalie Berry|8b|Satan X|
 |Jules Littlefair|8b|Predator|
 |Lisa Alhadeff|8b|Predator|
 |Jenny Woodward|8b|Predator|
@@ -27,7 +27,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Naomi Buys|8b|Wicked Gravity|
 |Wendy Coles|8b|Eurofighter|
 |Leah Crane|8b|Revelations|
-|Dalvinder Sodhi|8a+|50for5; Ashes Link|
+|Dalvinder Sodhi|8a+|50for5 - The Ashes Link|
 |Ako Shillitoe|8a+|Supercool|
 |Ruth Smitton|8a+|Supercool|
 |Julie Pearson|8a+|Supercool|
