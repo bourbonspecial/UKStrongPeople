@@ -73,3 +73,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Gwyneth Uttley|8a|Pren Nota, Cidersoak|||
 |Felicity Butler|8a?||||
 |Naiomi Guy|8a?||||
+|Alison Cowley|8a|Johnnie Walker||1999|
