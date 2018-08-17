@@ -3,7 +3,7 @@
 Based on data from this thread [https://ukbouldering.com/board/index.php/topic,25986.0.html](https://ukbouldering.com/board/index.php/topic,25986.0.html).
 
 | Name | Grade | Route |Unsure|
-|------|-------|-------|-||
+|------|-------|-------|------|
 |Hazel Findlay|8c|Mind Control, Fish Eye||
 |Emma Twyford|8c|Mind Control||
 |Mina Leslie-Wujastik|8c|Mecca Extension, Bat Route||
