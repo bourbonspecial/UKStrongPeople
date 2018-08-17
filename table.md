@@ -70,3 +70,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Hazel Dearlove|8a|Aberration|||
 |Rachel Farmer|8a|Raindogs||First 8a by a UK woman. Also first 7c+ with Let the Tribe Increase.|
 |Lucy Ellis|8a|Raindogs|?||
+|Gwyneth Uttley|8a|Pren Nota, Cidersoak|||
