@@ -73,7 +73,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Gwyneth Uttley|8a|Pren Nota, Cidersoak||||
 |Felicity Butler|8a|Statement of Youth||||
 |Naiomi Guy|8a?|||||
-|Alison Cowley|8a|Johnnie Walker||1999||
+|Alison Cowley|8a|Johnnie Walker|||1999|
 |Anne Arran|8a|Cauchemar de Elephant||||
 |Airlie Anderson|8a|Reve de Papillon||||
 |Helen Dudley|8a|Coliseum?|?|||
