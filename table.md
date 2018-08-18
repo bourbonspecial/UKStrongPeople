@@ -27,6 +27,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Naomi Buys|8b|Wicked Gravity|||2016?|
 |Wendy Coles|8b|Eurofighter|||2015|
 |Leah Crane|8b|Revelations||||
+|Silvia Fitzpatrick|8b|Golpe de Calor|||2009|
 |Dalvinder Sodhi|8a+|50for5 - The Ashes Link||||
 |Ako Shillitoe|8a+|Supercool||||
 |Ruth Smitton|8a+|Supercool||||
@@ -65,13 +66,12 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Zoe Peetermans|8a|Statement of Youth||||
 |Emily Phillips|8a|"an 8a abroad"||||
 |Sophie Whyte |8a|"8a at Los Tigres"||||
-|Sylvia Fitzpatrick|8a|"4 8as, 2014"||||
 |Tessa Silvestre Le Lyon|8a|Sombre del Viento, Margalef|||2017|
 |Hazel Dearlove|8a|Aberration||||
 |Rachel Farmer|8a|Raindogs||First 8a by a UK woman. Also first 7c+ with Let the Tribe Increase.||
 |Lucy Ellis|8a|Raindogs|?|||
 |Gwyneth Uttley|8a|Pren Nota, Cidersoak||||
-|Felicity Butler|8a?|Statement of Youth?||||
+|Felicity Butler|8a|Statement of Youth||||
 |Naiomi Guy|8a?|||||
 |Alison Cowley|8a|Johnnie Walker||1999||
 |Anne Arran|8a|Cauchemar de Elephant||||
