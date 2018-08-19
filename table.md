@@ -1,0 +1,1 @@
+List moved here [https://github.com/bourbonspecial/UKStrongPeople/blob/master/women_routes.md](https://github.com/bourbonspecial/UKStrongPeople/blob/master/women_routes.md)
