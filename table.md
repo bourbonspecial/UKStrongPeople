@@ -13,9 +13,9 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Lucy Creamer|8b+|Kalea Borroka||First 8b+ by a UK woman.|2009|
 |Frances Bensley|8b+|Kalea Borroka|||2018|
 |Molly Thompson-Smith|8b+|Mecca|||2017|
-|Karin Magog|8b/+|El Infierno|||2013|
+|Karin Magog|8b+|Mundo Feliz|||2017|
 |Rhoslyn Frugniet|8b|Lightning||First 8a+ flash with Face de Rat.|2015|
-|Ruth Jenkins|8b|Zeke the Freak||First 8b by a UK woman. Also first 8a+ with Caviar.|~1994?|
+|Ruth Jenkins|8b|Zeke the Freak||First 8b by a UK woman. Also first 8a+ with Caviar.|1995|
 |Natalie Berry|8b|Satan X|||2012|
 |Jules Littlefair|8b|Predator|||2011|
 |Lisa Alhadeff|8b|Predator|||2016|
