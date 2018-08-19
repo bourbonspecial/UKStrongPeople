@@ -5,15 +5,17 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
 Steve Mcclure|9b|Rainman||First 9b by a uk man.||
-|Tom Bolger|9a|Cuidad de dios||||
+|Tom Bolger|9a/+|Cuidad de dios||||
 |Stevie Haston|9a|Hugh||||
 |Alex Barrows|9a|Era Vella||||
 |Jordan Buys|9a|Rainshadow||||
 |Ben Moon|9a|Rainshadow||||
 |James McHaffie|9a|Big Bang||||
+|Stu Littlefair|9a|Raindshadow||||
+|Ryan Pasquill|9a|Raindshadow||||
+|William Bosi|9a|Rainshadow, Hunger||||
 |Dave Macleod|8c+/9a|Fight the Feeling||||
 |James Pearson|8c+/9a|Escalatamàsters||||
-|Ryan Pasquill|8c+/9a|Stevolution, Jungle Speed||||
 |Stew Watson|8c+|One Night Stand||||
 |Gaz Parry|8c+|Supersonico||||
 |Tim Palmer|8c+|Progress||||
@@ -50,7 +52,6 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |Adam Jeeworth|8c|Bat Route||||
 |Richard Waterton|8c|Bat Route||||
 |Adam Harrison|8c|Bat Route||||
-|William Bosi|8c|Transform||||
 |Steve Dunning|8c|Cry of freedom||||
 |Adam Jeffs|8c|Cry of freedom||||
 |Mike Grey|8c|True north||||
@@ -95,3 +96,4 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |Ben Heason|8b+|32||||
 |Char Williams|8b+|Mecca||||
 |Ned Feehally|8b+|Mecca||||
+|Michael Watson|8b+|Mecca||||
