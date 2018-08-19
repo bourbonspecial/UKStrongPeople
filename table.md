@@ -77,3 +77,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Anne Arran|8a|Cauchemar de Elephant||||
 |Airlie Anderson|8a|Reve de Papillon||||
 |Helen Dudley|8a|Coliseum?|?|||
+|Becca lounds|8a|Aberration|||2018|
