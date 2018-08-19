@@ -42,7 +42,6 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |Ben Bransby|8c|The Beast||||
 |Jon Clark|8c|Mecca Ext||||
 |Matt Donnelly|8c|Mecca Ext||||
-|Stuart Littlefair|8c|Mecca Ext||||
 |Dave McLoughlin|8c|Hajj||||
 |Matt Pickles|8c|True North||||
 |John Maskell|8c|Fisheye||||
