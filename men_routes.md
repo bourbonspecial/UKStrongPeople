@@ -77,6 +77,9 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Cailean Harker|8c|The Joker||||
 |Mark 'Zippy' Pretty|8c|Make it Funky|||1993|
 |Rupert Davies|8c|Make it Funky||||
+|Richard Heap|8c|Make it Funky||||
+|Robin Barker|8c|Make it Funky||||
+|John Welford|8c|Make it Funky||||
 |Al Wilson|8c|Cry Freedom|||2018|
 |Tony Mitchell|8c|True North|||1993|
 |Mark Leach|8c|Cry Freedom|||1988|
