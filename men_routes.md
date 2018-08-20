@@ -38,6 +38,7 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |Ben Davison|8c+|Eye of Odin||||
 |Jon Freeman|8c+|Progress||||
 |Jerry Moffatt|8c+|Liquid Ambar||||
+|Haydn Jones|8c+|Kaa’bah||||
 |Neil Mawson|8c/+|Raining Bats and Dogs||||
 |Gordon Lennox|8c|Dracula True Finish||||
 |Ed Hamer|8c|Tiger Cat||||
@@ -65,6 +66,8 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |Tim Emmett|8c|Captain America||||
 |Ally Smith|8c|The Pirate||||
 |Dave Redpath|8c|Devastation Generation||||
+|Nic Duboust|8c|Bat Route||||
+|James Turnbull|8c|Bat Route||||
 |Ben West|8b+/c|Helvetia||||
 |Jim Pope|8b+/c|Helvetia||||
 |Ally Coull|?|Magnum Opus||||
