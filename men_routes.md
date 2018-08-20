@@ -18,6 +18,7 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |Will Smith|9a|Era Vella||||
 |Pete Dawson|9a|Rainshadow||||
 |Buster Martin|9a|Rainshadow||||
+|Neil Carson|9a|Big Bang||||
 |Dave Macleod|8c+/9a|Fight the Feeling||||
 |James Pearson|8c+/9a|Escalatamàsters||||
 |John Gaskins|8c+/9a|Hubble||||
@@ -69,6 +70,7 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |Dave Redpath|8c|Devastation Generation||||
 |Nic Duboust|8c|Bat Route||||
 |James Turnbull|8c|Bat Route||||
+|Cailean Harker|8c|The Joker||||
 |Ben West|8b+/c|Helvetia||||
 |Jim Pope|8b+/c|Helvetia||||
 |Ally Coull|?|Magnum Opus||||
