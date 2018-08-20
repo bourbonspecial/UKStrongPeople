@@ -25,6 +25,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dave Macleod|8c+/9a (x)|Fight the Feeling||||
 |James Pearson|8c+/9a|Escalatamàsters||||
 |Steve Dunning|8c+/9a|Hubble||||
+|Ken Palmer|8c+|Brian||||
 |Luke Dawson|8c+|Blomu R3||||
 |Stew Watson|8c+|One Night Stand||||
 |Gaz Parry|8c+|Supersonico||||
@@ -62,6 +63,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Matt Donnelly|8c|Mecca Ext||||
 |Dave McLoughlin|8c|Hajj||||
 |Matt Pickles|8c|True North||||
+|Will Kelsall|8c|Bat Route||||
 |John Maskell|8c|Fisheye||||
 |Bob Hickish|8c (x)|Endeavor||||
 |Robin Sutton|8c|True North||||
@@ -88,4 +90,5 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Char Williams|8c|Mecca Ext||||
 |Max Milne|8c|Deracula True Finish||||
 |Ally Coull|8c|Magnum Opus|||2017|
+|Mark Edwards|8c|Nuts Are Not the Only Fruit (x)|?|Originally given 8b+, Mark has [subsequently stated](https://www.8a.nu/forum/editorial/8b+-in-1991-possibly-8c+-9a-2018) it may be 8c+/9a due to grade inflation. It has been debolted since the first ascent and thus hasn't been repeated and is unlikely to see a repeat.||
 |Ben West|8b+/c|Helvetia||||
