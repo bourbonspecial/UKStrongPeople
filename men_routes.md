@@ -11,11 +11,17 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |Jordan Buys|9a|Rainshadow||||
 |Ben Moon|9a|Rainshadow||||
 |James McHaffie|9a|Big Bang||||
-|Stu Littlefair|9a|Raindshadow||||
+|Stuart Littlefair|9a|Raindshadow||||
 |Ryan Pasquill|9a|Raindshadow||||
 |William Bosi|9a|Rainshadow, Hunger||||
+|Malcom Smith|9a|Hunger||||
+|Will Smith|9a|Era Vella||||
+|Pete Dawson|9a|Rainshadow||||
+|Buster Martin|9a|Rainshadow||||
 |Dave Macleod|8c+/9a|Fight the Feeling||||
 |James Pearson|8c+/9a|Escalatamàsters||||
+|John Gaskins|8c+/9a|Hubble||||
+|Luke Dawson|8c+|Blomu R3||||
 |Stew Watson|8c+|One Night Stand||||
 |Gaz Parry|8c+|Supersonico||||
 |Tim Palmer|8c+|Progress||||
@@ -30,9 +36,9 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |Wiz Fineron|8c+|Mr Hyde||||
 |Alan Cassidy|8c+|Metalcore||||
 |Ben Davison|8c+|Eye of Odin||||
-|Will Smith|8c+|ultimate sacrifice||||
+|Jon Freeman|8c+|Progress||||
+|Jerry Moffatt|8c+|Liquid Ambar||||
 |Neil Mawson|8c/+|Raining Bats and Dogs||||
-|Jon Freeman|8c/+|Raining Bats and Dogs||||
 |Gordon Lennox|8c|Dracula True Finish||||
 |Ed Hamer|8c|Tiger Cat||||
 |Paul Reeve|8c|Cry Freedom||||
@@ -47,7 +53,6 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |John Maskell|8c|Fisheye||||
 |Bob Hickish|8c|Endeavor||||
 |Robin Sutton|8c|True North||||
-|Buster Martin|8c|Bat Route||||
 |Adam Jeeworth|8c|Bat Route||||
 |Richard Waterton|8c|Bat Route||||
 |Adam Harrison|8c|Bat Route||||
@@ -58,5 +63,9 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |Sam Whittaker|8c|Bat Route||||
 |Aidrian Baxter|8c|Kalandraka||||
 |Tim Emmett|8c|Captain America||||
+|Ally Smith|8c|The Pirate||||
+|Dave Redpath|8c|Devastation Generation||||
 |Ben West|8b+/c|Helvetia||||
 |Jim Pope|8b+/c|Helvetia||||
+|Ally Coull|?|Magnum Opus||||
+|Max Milne|?|Deracula Direct||||
