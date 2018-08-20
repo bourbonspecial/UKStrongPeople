@@ -85,6 +85,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Mark Leach|8c|Cry Freedom|||1988|
 |Chris Doyle|8c (x)|The Holy Grail||||
 |Ian Vickers|8c|True North||||
+|Char Williams|8c|Mecca Ext||||
 |Ben West|8b+/c|Helvetia||||
 |Ally Coull|?|Magnum Opus||||
 |Max Milne|?|Deracula Direct||||
