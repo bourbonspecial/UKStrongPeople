@@ -47,8 +47,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jim Pope|8c+|Mr Hyde||||
 |Tim Emmett|8c+|Superman||||
 |Nic Sellars|8c+|Evolution||||
+|John Welford|8c+|The Bastard||||
 |Neil Mawson|8c/+|Raining Bats and Dogs||||
 |Richard Waterton|8c/+|Raining Bats and Dogs||||
+|Adam Jeeworth|8c/+|Raining Bats and Dogs||||
 |Gordon Lennox|8c|Dracula True Finish||||
 |Ed Hamer|8c|Tiger Cat||||
 |Paul Reeve|8c|Cry Freedom||||
@@ -63,7 +65,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |John Maskell|8c|Fisheye||||
 |Bob Hickish|8c (x)|Endeavor||||
 |Robin Sutton|8c|True North||||
-|Adam Jeeworth|8c|Bat Route||||
 |Adam Harrison|8c|Bat Route||||
 |Adam Jeffs|8c|Cry of freedom||||
 |Mike Grey|8c|True north||||
@@ -79,11 +80,11 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Rupert Davies|8c|Make it Funky||||
 |Richard Heap|8c|Make it Funky||||
 |Robin Barker|8c|Make it Funky||||
-|John Welford|8c|Make it Funky||||
 |Al Wilson|8c|Cry Freedom|||2018|
 |Tony Mitchell|8c|True North|||1993|
 |Mark Leach|8c|Cry Freedom|||1988|
 |Chris Doyle|8c (x)|The Holy Grail||||
+|Ian Vickers|8c|True North||||
 |Ben West|8b+/c|Helvetia||||
 |Ally Coull|?|Magnum Opus||||
 |Max Milne|?|Deracula Direct||||
