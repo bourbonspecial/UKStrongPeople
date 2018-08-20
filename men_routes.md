@@ -14,8 +14,8 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jordan Buys|9a|Rainshadow||||
 |Ben Moon|9a|Rainshadow||||
 |James McHaffie|9a|Big Bang||||
-|Stuart Littlefair|9a|Raindshadow||||
-|Ryan Pasquill|9a|Raindshadow||||
+|Stuart Littlefair|9a|Rainshadow||||
+|Ryan Pasquill|9a|Rainshadow||||
 |William Bosi|9a|Rainshadow, Hunger||||
 |Malcom Smith|9a|Hunger||||
 |Will Smith|9a|Era Vella||||
@@ -46,7 +46,9 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Neil Gresham|8c+|Sabotage (x)||||
 |Jim Pope|8c+|Mr Hyde||||
 |Tim Emmett|8c+|Superman||||
+|Nic Sellars|8c+|Evolution||||
 |Neil Mawson|8c/+|Raining Bats and Dogs||||
+|Richard Waterton|8c/+|Raining Bats and Dogs||||
 |Gordon Lennox|8c|Dracula True Finish||||
 |Ed Hamer|8c|Tiger Cat||||
 |Paul Reeve|8c|Cry Freedom||||
@@ -62,7 +64,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Bob Hickish|8c|Endeavor (x)||||
 |Robin Sutton|8c|True North||||
 |Adam Jeeworth|8c|Bat Route||||
-|Richard Waterton|8c|Bat Route||||
 |Adam Harrison|8c|Bat Route||||
 |Adam Jeffs|8c|Cry of freedom||||
 |Mike Grey|8c|True north||||
@@ -74,8 +75,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Nic Duboust|8c|Bat Route||||
 |James Turnbull|8c|Bat Route||||
 |Cailean Harker|8c|The Joker||||
-|Mark 'Zippy' Pretty|8c|Make it Funky||||
+|Mark 'Zippy' Pretty|8c|Make it Funky|||1993|
 |Rupert Davies|8c|Make it Funky||||
+|Al WIlson|8c|Cry Freedom|||2018|
+|Tony Mitchell|8c|True North|||1993|
 |Ben West|8b+/c|Helvetia||||
 |Ally Coull|?|Magnum Opus||||
 |Max Milne|?|Deracula Direct||||
