@@ -4,7 +4,8 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
-Steve Mcclure|9b|Rainman||First 9b by a uk man.||
+|Steve Mcclure|9b|Rainman||First 9b by a uk man.||
+|John Gaskins|9a+|Violent New Breed||||
 |Tom Bolger|9a/+|Cuidad de dios||||
 |Stevie Haston|9a|Hugh||||
 |Alex Barrows|9a|Era Vella||||
@@ -21,7 +22,7 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |Neil Carson|9a|Big Bang||||
 |Dave Macleod|8c+/9a|Fight the Feeling||||
 |James Pearson|8c+/9a|Escalatamàsters||||
-|John Gaskins|8c+/9a|Hubble||||
+|Steve Dunning|8c+/9a|Hubble||||
 |Luke Dawson|8c+|Blomu R3||||
 |Stew Watson|8c+|One Night Stand||||
 |Gaz Parry|8c+|Supersonico||||
@@ -59,7 +60,6 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |Adam Jeeworth|8c|Bat Route||||
 |Richard Waterton|8c|Bat Route||||
 |Adam Harrison|8c|Bat Route||||
-|Steve Dunning|8c|Cry of freedom||||
 |Adam Jeffs|8c|Cry of freedom||||
 |Mike Grey|8c|True north||||
 |Rob Napier|8c|Bat Route||||
