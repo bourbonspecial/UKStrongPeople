@@ -60,39 +60,3 @@ Steve Mcclure|9b|Rainman||First 9b by a uk man.||
 |Tim Emmett|8c|Captain America||||
 |Ben West|8b+/c|Helvetia||||
 |Jim Pope|8b+/c|Helvetia||||
-|Dave “Prof” Pickford|8b+|Helvetia (LH swerve)||||
-|Adam Hocking|8b+|El Club de la Lucha||||
-|Neil Gresham|8b+|Welcome to Tijuana (LH start)||||
-|Niall McNair|8b+|Mal de Isla||||
-|Dave Redpath|8b+|Aqua Vitae||||
-|Ali Kennedy|8b+|Kalea Borroka||||
-|Ian MacDonald|8b+|T1 Full Equip||||
-|Gav Symonds|8b+|Poppy||||
-|Andre Hedger|8b+|Neandertal||||
-|Alex Waterhouse|8b+|Tuppence Ha'penny||||
-|Pete Dawson|8b+|Chimaera||||
-|Bruno Marks|8b+|Unjustified||||
-|Dan Walker|8b+|Unjustified||||
-|Anthony Ingham|8b+|Unjustified||||
-|Arran Deakin|8b+|Unjustified||||
-|Eddie Barbour|8b+|Transworld Depravity||||
-|Adam Lincoln|8b+|Dr Crimp||||
-|Theo Elmer|8b+|Mecca||||
-|Will Kelsall|8b+|32||||
-|Ally Smith|8b+|Aspid||||
-|Ru Davis|8b+|32||||
-|Haydn Jones|8b+|Mecca||||
-|Luke Dawson|8b+|Mecca||||
-|Simon Davis|8b+|Mecca||||
-|George Carmicheal|8b+|Mecca||||
-|Keefe Murphy|8b+|El Club de la Lucha||||
-|Cailean Harker|8b+|Poppy||||
-|Gavin Symonds|8b+|Poppy||||
-|Chris Doyle|8b+|Raiders of the Dark Ark||||
-|Dave Barrans|8b+|Indian Summer||||
-|Mick Bate|8b+|Mecca||||
-|Dan Kyte|8b+|Mecca||||
-|Ben Heason|8b+|32||||
-|Char Williams|8b+|Mecca||||
-|Ned Feehally|8b+|Mecca||||
-|Michael Watson|8b+|Mecca||||
