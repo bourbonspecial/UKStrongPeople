@@ -6,8 +6,8 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
-|Steve Mcclure|9b|Rainman (x)||First 9b by a uk man.||
-|John Gaskins|9a+|Violent New Breed (x)||||
+|Steve Mcclure|9b (x)|Rainman||First 9b by a uk man.||
+|John Gaskins|9a+ (x)|Violent New Breed||||
 |Tom Bolger|9a/+|Cuidad de dios||||
 |Stevie Haston|9a|Hugh||||
 |Alex Barrows|9a|Era Vella||||
@@ -22,7 +22,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Pete Dawson|9a|Rainshadow||||
 |Buster Martin|9a|Rainshadow||||
 |Neil Carson|9a|Big Bang||||
-|Dave Macleod|8c+/9a|Fight the Feeling (x)||||
+|Dave Macleod|8c+/9a (x)|Fight the Feeling||||
 |James Pearson|8c+/9a|Escalatamàsters||||
 |Steve Dunning|8c+/9a|Hubble||||
 |Luke Dawson|8c+|Blomu R3||||
@@ -30,7 +30,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Gaz Parry|8c+|Supersonico||||
 |Tim Palmer|8c+|Progress||||
 |Chris Savage|8c+|Progress||||
-|Pete Robins|8c+|Diamond Dogs (x)||||
+|Pete Robins|8c+ (x)|Diamond Dogs||||
 |Neil Dyer|8c+|Megaloupa||||
 |Oli Grounsell|8c+| Megaloupa||||
 |Pete Whittaker|8c+|Kaa’bah||||
@@ -43,7 +43,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jon Freeman|8c+|Progress||||
 |Jerry Moffatt|8c+|Liquid Ambar||||
 |Haydn Jones|8c+|Kaa’bah||||
-|Neil Gresham|8c+|Sabotage (x)||||
+|Neil Gresham|8c+ (x)|Sabotage||||
 |Jim Pope|8c+|Mr Hyde||||
 |Tim Emmett|8c+|Superman||||
 |Nic Sellars|8c+|Evolution||||
@@ -61,7 +61,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dave McLoughlin|8c|Hajj||||
 |Matt Pickles|8c|True North||||
 |John Maskell|8c|Fisheye||||
-|Bob Hickish|8c|Endeavor (x)||||
+|Bob Hickish|8c (x)|Endeavor||||
 |Robin Sutton|8c|True North||||
 |Adam Jeeworth|8c|Bat Route||||
 |Adam Harrison|8c|Bat Route||||
@@ -70,7 +70,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Rob Napier|8c|Bat Route||||
 |Sam Whittaker|8c|Bat Route||||
 |Aidrian Baxter|8c|Kalandraka||||
-|Ally Smith|8c|The Pirate (x)||||
+|Ally Smith|8c (x)|The Pirate||||
 |Dave Redpath|8c|Devastation Generation||||
 |Nic Duboust|8c|Bat Route||||
 |James Turnbull|8c|Bat Route||||
@@ -80,7 +80,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Al Wilson|8c|Cry Freedom|||2018|
 |Tony Mitchell|8c|True North|||1993|
 |Mark Leach|8c|Cry Freedom|||1988|
-|Chris Doyle|8c|The Holy Grail (x)||||
+|Chris Doyle|8c (x)|The Holy Grail||||
 |Ben West|8b+/c|Helvetia||||
 |Ally Coull|?|Magnum Opus||||
 |Max Milne|?|Deracula Direct||||
