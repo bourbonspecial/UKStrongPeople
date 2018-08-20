@@ -1,4 +1,4 @@
-### UK men who've climbed 8b+ or harder
+### UK men who've climbed 8c or harder
 
 Based on data from this thread [https://ukbouldering.com/board/index.php/topic,26017.100.html](https://ukbouldering.com/board/index.php/topic,26017.100.html).
 
