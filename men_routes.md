@@ -36,7 +36,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Pete Whittaker|8c+|Kaa’bah||||
 |Ted Kingsnorth|8c+|Kaa’bah||||
 |Ethan Walker|8c+|Kaa’bah||||
-|Ellis Butler|8c+|arker||||
+|Ellis Butler-Barker|8c+|Brian||||
 |Wiz Fineron|8c+|Mr Hyde||||
 |Alan Cassidy|8c+|Metalcore||||
 |Ben Davison|8c+|Eye of Odin||||
