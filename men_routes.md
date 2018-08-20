@@ -86,6 +86,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Chris Doyle|8c (x)|The Holy Grail||||
 |Ian Vickers|8c|True North||||
 |Char Williams|8c|Mecca Ext||||
+|Max Milne|8c|Deracula True Finish||||
+|Ally Coull|8c|Magnum Opus|||2017|
 |Ben West|8b+/c|Helvetia||||
-|Ally Coull|?|Magnum Opus||||
-|Max Milne|?|Deracula Direct||||
