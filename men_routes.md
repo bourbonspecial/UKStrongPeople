@@ -77,8 +77,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Cailean Harker|8c|The Joker||||
 |Mark 'Zippy' Pretty|8c|Make it Funky|||1993|
 |Rupert Davies|8c|Make it Funky||||
-|Al WIlson|8c|Cry Freedom|||2018|
+|Al Wilson|8c|Cry Freedom|||2018|
 |Tony Mitchell|8c|True North|||1993|
+|Mark Leach|8c|Cry Freedom|||1988|
+|Chris Doyle|8c|The Holy Grail (x)||||
 |Ben West|8b+/c|Helvetia||||
 |Ally Coull|?|Magnum Opus||||
 |Max Milne|?|Deracula Direct||||
