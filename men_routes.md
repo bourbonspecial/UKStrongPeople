@@ -45,6 +45,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Haydn Jones|8c+|Kaa’bah||||
 |Neil Gresham|8c+|Sabotage (x)||||
 |Jim Pope|8c+|Mr Hyde||||
+|Tim Emmett|8c+|Superman||||
 |Neil Mawson|8c/+|Raining Bats and Dogs||||
 |Gordon Lennox|8c|Dracula True Finish||||
 |Ed Hamer|8c|Tiger Cat||||
@@ -68,12 +69,13 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Rob Napier|8c|Bat Route||||
 |Sam Whittaker|8c|Bat Route||||
 |Aidrian Baxter|8c|Kalandraka||||
-|Tim Emmett|8c|Captain America||||
 |Ally Smith|8c|The Pirate (x)||||
 |Dave Redpath|8c|Devastation Generation||||
 |Nic Duboust|8c|Bat Route||||
 |James Turnbull|8c|Bat Route||||
 |Cailean Harker|8c|The Joker||||
+|Mark 'Zippy' Pretty|8c|Make it Funky||||
+|Rupert Davies|8c|Make it Funky||||
 |Ben West|8b+/c|Helvetia||||
 |Ally Coull|?|Magnum Opus||||
 |Max Milne|?|Deracula Direct||||
