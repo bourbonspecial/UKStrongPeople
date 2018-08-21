@@ -56,7 +56,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ed Hamer|8c|Tiger Cat||||
 |Paul Reeve|8c|Cry Freedom||||
 |Robbie Phillips|8c|Especio Tempo||||
-|Tom Newberry|8c|Deathstar||||
+|Tom Newberry|8c+|Spicy Noodle||||
 |Tom Randall|8c|Cobra Crack||||
 |Ben Bransby|8c|The Beast||||
 |Jon Clark|8c|Mecca Ext||||
@@ -88,8 +88,9 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Chris Doyle|8c (x)|The Holy Grail||||
 |Ian Vickers|8c|True North||||
 |Char Williams|8c|Mecca Ext||||
-|Max Milne|8c|Deracula True Finish||||
+|Max Milne|8c|Dracula True Finish||||
 |Ally Coull|8c|Magnum Opus|||2017|
+|Jacob Cook|8c|Revival||||
 |Mark Edwards|8c|Nuts Are Not the Only Fruit (x)|?|Originally given 8b+, Mark has [subsequently stated](https://www.8a.nu/forum/editorial/8b+-in-1991-possibly-8c+-9a-2018) it may be 8c+/9a due to grade inflation. It has been debolted since the first ascent and thus hasn't been repeated and is unlikely to see a repeat.||
 |Alexis Perry|8c|The Death Star|?|The line is somewhat eliminate and the grade depends quite a bit on exactly which holds and what sequence is used.||
-|Ben West|8b+/c|Helvetia||||
+|Ben West|8b+/c|Helvetia|?|The grade has settled at 8b+ but it has lost (and regained) holds at various points since the first ascent, so the orginal grade of 8c given by Ben may be accurate.||
