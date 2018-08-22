@@ -6,14 +6,14 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
-|Steve Mcclure|9b (x)|Rainman||First 9b by a uk man.||
+|Steve Mcclure|9b (x)|Rainman||First 9b by a british man and first 9b in the UK. Many other notable ascents up to 9a+.||
 |John Gaskins|9a+ (x)|Violent New Breed||||
 |Tom Bolger|9a/+|Cuidad de dios||||
-|Stevie Haston|9a|Hugh||||
-|Alex Barrows|9a|Era Vella||||
+|Stevie Haston|9a|Hugh, Descente Lolitta||||
+|Alex Barrows|9a|Era Vella, Bad Girl's Club||||
 |Jordan Buys|9a|Rainshadow||||
-|Ben Moon|9a|Rainshadow||||
-|James McHaffie|9a|Big Bang||||
+|Ben Moon|9a|Rainshadow||Also first ascent of Hubble, the world's first 8c+/9a (depending on who you ask).||
+|James McHaffie|9a|Big Bang, The Meltdown||FA of The Meltdown, one of the harder slabs in the world.||
 |Stuart Littlefair|9a|Rainshadow||||
 |Ryan Pasquill|9a|Rainshadow||||
 |William Bosi|9a|Rainshadow, Hunger||||
@@ -31,11 +31,11 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Gaz Parry|8c+|Supersonico||||
 |Tim Palmer|8c+|Progress||||
 |Chris Savage|8c+|Progress||||
-|Pete Robins|8c+ (x)|Diamond Dogs||||
+|Pete Robins|8c+|Sea of Tranquility, Diamond Dogs, Dark Energy||||
 |Neil Dyer|8c+|Megaloupa||||
 |Oli Grounsell|8c+| Megaloupa||||
 |Pete Whittaker|8c+|Kaa’bah||||
-|Ted Kingsnorth|8c+|Kaa’bah||||
+|Ted Kingsnorth|8c+|Kaa’bah, Just Do It||||
 |Ethan Walker|8c+|Kaa’bah||||
 |Ellis Butler-Barker|8c+|Brian||||
 |Wiz Fineron|8c+|Mr Hyde||||
@@ -48,7 +48,8 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jim Pope|8c+|Mr Hyde||||
 |Tim Emmett|8c+|Superman||||
 |Nic Sellars|8c+|Evolution||||
-|John Welford|8c+|The Bastard||||
+|John Welford|8c+|The Bastard||Originally given 8c but upgraded to 8c+.||
+|Tom Newberry|8c+|Spicy Noodle||||
 |Neil Mawson|8c/+|Raining Bats and Dogs||||
 |Richard Waterton|8c/+|Raining Bats and Dogs||||
 |Adam Jeeworth|8c/+|Raining Bats and Dogs||||
@@ -56,8 +57,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ed Hamer|8c|Tiger Cat||||
 |Paul Reeve|8c|Cry Freedom||||
 |Robbie Phillips|8c|Especio Tempo||||
-|Tom Newberry|8c+|Spicy Noodle||||
-|Tom Randall|8c|Cobra Crack||||
+|Tom Randall|8c|Cobra Crack, Century Crack||||
 |Ben Bransby|8c|The Beast||||
 |Jon Clark|8c|Mecca Ext||||
 |Matt Donnelly|8c|Mecca Ext||||
@@ -65,7 +65,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Matt Pickles|8c|True North||||
 |Will Kelsall|8c|Bat Route||||
 |John Maskell|8c|Fisheye||||
-|Bob Hickish|8c (x)|Endeavor||||
+|Bob Hickish|8c|Endeavor, Mecca Ext, True North||||
 |Robin Sutton|8c|True North||||
 |Adam Harrison|8c|Bat Route||||
 |Adam Jeffs|8c|Cry of freedom||||
