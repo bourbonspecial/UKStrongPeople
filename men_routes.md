@@ -31,7 +31,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Gaz Parry|8c+|Supersonico||||
 |Tim Palmer|8c+|Progress||||
 |Chris Savage|8c+|Progress||||
-|Pete Robins|8c+|Sea of Tranquility, Diamond Dogs, Dark Energy||||
+|Pete Robins|8c+|Sea of Tranquility, Diamond Dogs, Dark Energy||Climbed 8c+ every year from 2009 to 2014.||
 |Neil Dyer|8c+|Megaloupa||||
 |Oli Grounsell|8c+| Megaloupa||||
 |Pete Whittaker|8c+|Kaa’bah||||
