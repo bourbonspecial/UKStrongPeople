@@ -50,6 +50,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Nic Sellars|8c+|Evolution||||
 |John Welford|8c+|The Bastard||Originally given 8c but upgraded to 8c+.||
 |Tom Newberry|8c+|Spicy Noodle||||
+|Josh Ibbertson|8c+|?||||
 |Neil Mawson|8c/+|Raining Bats and Dogs||||
 |Richard Waterton|8c/+|Raining Bats and Dogs||||
 |Adam Jeeworth|8c/+|Raining Bats and Dogs||||
