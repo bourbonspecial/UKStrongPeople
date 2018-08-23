@@ -42,7 +42,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Alan Cassidy|8c+|Metalcore||||
 |Ben Davison|8c+|Eye of Odin||||
 |Jon Freeman|8c+|Progress||||
-|Jerry Moffatt|8c+|Liquid Ambar||||
+|Jerry Moffatt|8c+|Liquid Ambar, Evolution||||
 |Haydn Jones|8c+|Kaa’bah||||
 |Neil Gresham|8c+ (x)|Sabotage||||
 |Jim Pope|8c+|Mr Hyde||||
@@ -50,7 +50,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Nic Sellars|8c+|Evolution||||
 |John Welford|8c+|The Bastard||Originally given 8c but upgraded to 8c+.||
 |Tom Newberry|8c+|Spicy Noodle||||
-|Josh Ibbertson|8c+|?||||
+|Josh Ibbertson|8c+|?||Aged 14.||
 |Neil Mawson|8c/+|Raining Bats and Dogs||||
 |Richard Waterton|8c/+|Raining Bats and Dogs||||
 |Adam Jeeworth|8c/+|Raining Bats and Dogs||||
@@ -92,6 +92,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Max Milne|8c|Dracula True Finish||||
 |Ally Coull|8c|Magnum Opus|||2017|
 |Jacob Cook|8c|Revival||||
+|Eddie Barbour|8c|China Beach||||
 |Mark Edwards|8c|Nuts Are Not the Only Fruit (x)|?|Originally given 8b+, Mark has [subsequently stated](https://www.8a.nu/forum/editorial/8b+-in-1991-possibly-8c+-9a-2018) it may be 8c+/9a due to grade inflation. It has been debolted since the first ascent and thus hasn't been repeated and is unlikely to see a repeat.||
 |Alexis Perry|8c|The Death Star|?|The line is somewhat eliminate and the grade depends quite a bit on exactly which holds and what sequence is used.||
 |Ben West|8b+/c|Helvetia|?|The grade has settled at 8b+ but it has lost (and regained) holds at various points since the first ascent, so the orginal grade of 8c given by Ben may be accurate.||
