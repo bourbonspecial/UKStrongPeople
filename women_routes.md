@@ -28,7 +28,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Wendy Coles|8b|Eurofighter|||2015|
 |Leah Crane|8b|Revelations||||
 |Silvia Fitzpatrick|8b|Golpe de Calor|||2009|
-|Dalvinder Sodhi|8a+|50for5 - The Ashes Link||||
+|Dalvinder Sodhi|8b|Stolen|||2017|
 |Ako Shillitoe|8a+|Supercool||||
 |Ruth Smitton|8a+|Supercool||||
 |Julie Pearson|8a+|Supercool||||
