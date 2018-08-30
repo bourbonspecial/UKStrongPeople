@@ -45,7 +45,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jon Freeman|8c+|Progress||||
 |Jerry Moffatt|8c+|Liquid Ambar, Evolution||||
 |Haydn Jones|8c+|Kaa’bah||||
-|Neil Gresham|8c+ (x)|Sabotage||||
+|Neil Gresham|8c+|Sabotage||||
 |Jim Pope|8c+|Mr Hyde||||
 |Tim Emmett|8c+|Superman||||
 |Nic Sellars|8c+|Evolution||||
