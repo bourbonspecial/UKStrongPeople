@@ -24,6 +24,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Neil Carson|9a|Big Bang||||
 |Dave Macleod|8c+/9a (x)|Fight the Feeling||||
 |James Pearson|8c+/9a|Escalatamàsters||||
+|John Dunne|8c+/9a (x)|Total Eclipse||||
 |Steve Dunning|8c+/9a|Hubble||||
 |Ken Palmer|8c+|Brian||||
 |Luke Dawson|8c+|Blomu R3||||
