@@ -98,5 +98,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Aidan Roberts|8c|Freakshow||Third ascent.|2015|
 |Ian MacDoanld|8c|T1 Full Equip||||
 |Charlie Woodburn|8c|Bat Route||||
+|Ben Freeman|8c|Aladdin||||
 |Mark Edwards|8c|Nuts Are Not the Only Fruit (x)|?|Originally given 8b+, Mark has [subsequently stated](https://www.8a.nu/forum/editorial/8b+-in-1991-possibly-8c+-9a-2018) it may be 8c+/9a due to grade inflation. It has been debolted since the first ascent and thus hasn't been repeated and is unlikely to see a repeat.||
 |Alexis Perry|8c|The Death Star|?|The line is eliminate and the grade depends quite a bit on the holds and sequence used.||
