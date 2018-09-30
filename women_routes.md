@@ -29,16 +29,17 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Leah Crane|8b|Revelations||||
 |Silvia Fitzpatrick|8b|Golpe de Calor|||2009|
 |Dalvinder Sodhi|8b|Stolen|||2017|
+|Tanya Meredith|8b|Austrian Oak|||2018|
 |Ako Shillitoe|8a+|Supercool||||
 |Ruth Smitton|8a+|Supercool||||
 |Julie Pearson|8a+|Supercool||||
 |Ella Russel|8a+|Overnite Sensation|||2015|
 |Mia Stacey|8a+|Flix Flax||||
 |Cherry Bedford|8a+|Pet Cemetery||||
-|Tanya Meredith|8a+|GBH||||
 |Raelene Cowie|8a+|Boot Boys||||
 |Amanda Lyons|8a+|Moby Dick||||
 |Mhairi Thorburn|8a+|Las Clochas de Targa||||
+|Flo Tilley|8a+|Bullet||||
 |Zoe Ogden|8a|Raindogs||||
 |Emily Allen|8a|Aberration||||
 |Karen Whitehouse|8a|Aberration||||
