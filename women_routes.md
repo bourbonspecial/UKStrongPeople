@@ -40,6 +40,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Amanda Lyons|8a+|Moby Dick||||
 |Mhairi Thorburn|8a+|Las Clochas de Targa||||
 |Flo Tilley|8a+|Bullet||||
+|Zoe Gregory|8a+|La Femme Blanche||||
 |Zoe Ogden|8a|Raindogs||||
 |Emily Allen|8a|Aberration||||
 |Karen Whitehouse|8a|Aberration||||
