@@ -17,29 +17,34 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Leah Crane|8A|Tourniquet||||
 |Holly Rees|8A|Ben's Roof Extension||No knees.||
 |Michaela Tracy|7C+/8A|The Dark Room||||
-|Emma Flaherty|8A|Back Street Mime Artist, Röyksopp||||
+|Emma Flaherty|8A|Backstreet Mime Artist, Röyksopp||||
 |Ellie Bacmeister|8A|White Light||||
-|Tara Hayes|8A|Nutsa, The Hatchling||||
+|Tara Hayes|8A|Nutsa||||
 |Molly Thompson-Smith|8A|Dead Can't Dance, Tsunami||||
+|Gill Peet|8A|Moreau's Island||||
 |Claire Curling|8A||?|||
 |Katy Whittaker|7C+|Shirley's Shining Temple (flash), The Hatchling||||
 |Emma Twyford|7C+|Lotus||||
 |Lucinda Whittaker|7C+|Caroline||||
 |Lucy Creamer|7C+|Trente Six||||
 |Steph Holland|7C+|Burly McMirfy, Crazy Horses||||
+|Rhoslyn Frugniet|7C+|Caroline, AWOL Apprentice||||
+|Naomis Cokell|7C+|Megalithe||||
 |Charlotte Telfer|7C|Jess's Roof ||||
-|Jo Allen|7C|The Pinch||||
+|Jo Allen|8A|Backstreet Mime Artist||||
 |Charlie Torrance|7C|Rock Atrocity, Fish Pie||||
 |Michelle Wardle|7C|Rock Atrocity||||
 |Diane Merrick|7C|Paint it Black||||
 |Penny Orr|7C|Dr. Crimp||||
-|Charlotte Garden|7C|Hannibal||||
+|Charlotte Garden|7C+|Caroline, The Departed||||
+|Rachel Carr|7C+|Caroline||||
+|Helen Dudley|7C+| Iceberg (aller-detour)||||
 |Esther Seddon|7C|Rock Atrocity||||
 |Debbie Corbett|7C|Ben's Roof||||
 |Jules Littlefair|7C|Ben's Roof||||
 |Ruth Smitton|7C|Ben's Roof||||
 |Lisa Alhadeff|7C|Ben's Roof||||
-|Katie Maxwell|7C|Ben's Roof||||
+|Katie Maxwell|7C+|Caroline, Working 9-5 Stand||||
 |Ferdia Earle|7C|Ben's Roof||||
 |Rae Cowie|7C|Powerband, Ben's Roof||||
 |Anna Trybis|7C|Sprung||||
@@ -47,6 +52,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Lily Fitzgibbon|7C|Man of Cow||||
 |Rachel Briggs|7C|Welcome to Tiujana||||
 |Kitty Wallace|7C|Le Carnage Assis||||
+|Llinos Cassidy|7C|Fat Cat Roof||||
 |Anna|||?|climbs at the depot?||
 |Naomi Buys|||?|did she do Tourniquet or something?||
 |Dalvinder Sodhi|||?||||
