@@ -38,7 +38,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ruth Smitton|7C|Ben's Roof||||
 |Lisa Alhadeff|7C|Ben's Roof||||
 |Katie Maxwell|7C|Ben's Roof||||
-|Feria Earle|7C|Ben's Roof||||
+|Ferdia Earle|7C|Ben's Roof||||
 |Rae Cowie|7C|Powerband, Ben's Roof||||
 |Anna Trybis|7C|Sprung||||
 |Alison Monks|7C|Sprung, Coronary Bypass||||
