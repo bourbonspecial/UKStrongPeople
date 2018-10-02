@@ -5,11 +5,13 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
 |Shauna Coxsey|8B+|New Base Line||||
+|Mina Leslie-Wujastik|8B|Pursuit of Happiness||||
 |Claire Murphy|8A+|Chbalanke, Sarah SS||||
-|Mina Leslie-Wujastik|8A+|Lethal Design||||
 |Frances Bensely|8A+|Pilgrim|||2018|
 |Suzan Dudink|8A+|Tea with Elmarie||||
 |Ella Russell|8A+|Sleepy Hollow||||
+|Nia Fletcher|8A+|Fat Lady||||
+|Becky Wilby|8A+|Armed Response||||
 |Naomi Guy|8A+||?|||
 |Jemma Powell|8A|Stone Temple Pilots||||
 |Leah Crane|8A|Tourniquet||||
@@ -17,9 +19,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Michaela Tracy|7C+/8A|The Dark Room||||
 |Emma Flaherty|8A|Back Street Mime Artist, Röyksopp||||
 |Ellie Bacmeister|8A|White Light||||
+|Tara Hayes|8A|Nutsa, The Hatchling||||
+|Molly Thompson-Smith|8A|Dead Can't Dance, Tsunami||||
 |Claire Curling|8A||?|||
-|Nia Fletcher|7C+|Trailer Trash||||
-|Katy Whittaker|7C+|Shirley's Shining Temple (flash)||||
+|Katy Whittaker|7C+|Shirley's Shining Temple (flash), The Hatchling||||
 |Emma Twyford|7C+|Lotus||||
 |Lucinda Whittaker|7C+|Caroline||||
 |Lucy Creamer|7C+|Trente Six||||
@@ -30,7 +33,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Michelle Wardle|7C|Rock Atrocity||||
 |Diane Merrick|7C|Paint it Black||||
 |Penny Orr|7C|Dr. Crimp||||
-|Tara Hayes|7C|Ecialle de Line||||
 |Charlotte Garden|7C|Hannibal||||
 |Esther Seddon|7C|Rock Atrocity||||
 |Debbie Corbett|7C|Ben's Roof||||
