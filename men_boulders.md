@@ -30,6 +30,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ollie Torr|8B|Fat Lip||||
 |Will Smith|8B|Fat Lip||||
 |James Noble|8B+|Dandelioon Mind||||
+|Tyler Landman|8B+|Gecko Assis||||
 |Andy Burgess|8B|Keen Roof||||
 |Sam Prior|8B|Keen Roof||||
 |Pete Dawson|8B|Keen Roof||||
@@ -62,7 +63,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dave Nodden|8B|Keen Roof||||
 |Michael Bleazard|8B|Steppenwolf||||
 |Jonny Argue|8B|Fat lip||||
-
 |Mark Mcquade||Sanction?||||
 |Rob Sutton|8B||?|Something at dumby?||
 |Gareth Parry|||?|||
@@ -70,5 +70,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Nathan Phillips|||?|||
 |Micky Page|||?|||
 |Liam Desroy|||?|||
-|Tyler Landman|||?|||
 |Ben Bransby|||?|||
