@@ -40,7 +40,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Amanda Lyons|8a+|Moby Dick||||
 |Mhairi Thorburn|8a+|Las Clochas de Targa||||
 |Flo Tilley|8a+|Bullet||||
-|Zoe Gregory|8a+|La Femme Blanche||||
+|Zoë Peetermans|8a+|La Femme Blanche||||
 |Zoe Ogden|8a|Raindogs||||
 |Emily Allen|8a|Aberration||||
 |Karen Whitehouse|8a|Aberration||||
@@ -65,7 +65,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Charlotte Telfer|8a|Le Lapin||||
 |Gwen Morgan|8a|Vennerne|||2018|
 |Sarah Black|8a|Vennerne||||
-|Zoe Peetermans|8a|Statement of Youth||||
 |Emily Phillips|8a|"an 8a abroad"||||
 |Sophie Whyte |8a|"8a at Los Tigres"||||
 |Tessa Silvestre Le Lyon|8a|Sombre del Viento, Margalef|||2017|
