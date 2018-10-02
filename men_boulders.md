@@ -65,6 +65,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jonny Argue|8B|Fat lip||||
 |Mark Mcquade||Sanction?||||
 |Rob Sutton|8B||?|Something at dumby?||
+|Dan Smith|8B|Middle Trifecta|||2014|
 |Gareth Parry|||?|||
 |Tom Williams|||?|||
 |Nathan Phillips|||?|||
