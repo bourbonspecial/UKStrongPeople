@@ -85,5 +85,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Will Buck|8B|Rhythm||||
 |Alex Waterhouse|8B|Merlin's Beard||||
 |Dave Cowl|8B|Reel Keelhaul||||
+|Andy Banks|8B|Vice President, Flor de Loto||||
+|Luke FLetcher|8B|Ropes of Maui||||
 |Mark Mcquade||Sanction?||||
 |Rob Sutton|8B||?|Something at dumby?||
