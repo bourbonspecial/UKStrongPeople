@@ -5,22 +5,22 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
 |Dave Macleod|8C|Practice of the Wild||||
-|Will Bosi|8C|Practice of the Wild||||
+|Will Bosi|8C|Practice of the Wild|||2018|
 |Ned Feehally|8C|The Big Island||||
-|James Squire|8C|The World is Yours (x)||||
+|James Squire|8C|The World is Yours (x)|||2018|
 |Mike Adams|8C|Serenata||||
 |James Noble|8C|Bordello SDS||||
 |Tyler Landman|8C|Practice of the Wild||||
-|Micky Paige|8B+|Big Paw, Monk Life, Kheops Assiss, Black Eagle||||
 |Toby Saxton|8C|The Finnish Line||||
 |Dawid Skoczylas|8C|Serenata||||
 |john Gaskins|8C|Walk Away SDS||||
 |Tim Clifford|8B+/C|The Singularity||||
 |Aidan Roberts|8C|Monkey Wedding||||
+|Micky Paige|8B+|Big Paw, Monk Life, Kheops Assiss, Black Eagle||||
 |Max Milne|8B+|Lord Faquhar (x)||||
 |Ben Moon|8B+|Voyager Sit||||
 |Dan Turner|8B+|Voyager Sit, Bewilderness, Monk Life||||
-|Malcom Smith|8B+|Pilgrimage||||
+|Malcom Smith|8B+|Pilgrimage, Leviathan (x), Monk Life||||
 |Dan Varian|8B+|The Rail (x), Bewilderness||||
 |Dave Mason|8B+|Mortal Immortal, King of Limbs, Bewilderness||||
 |Simon Newstead|8B+|The Island||||
@@ -35,6 +35,8 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tom Newman|8B+|Serendipity||||
 |Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
 |Elliot Stephens|8B+|New Baseline||||
+|Nathan Phillips|8B+|Mystic Stylez||||
+|Johnny Kydd|8B+|Spaceship||||
 |Pete Robins|8B|Madam Allure, Isles of Wonder||||
 |Ash Wolsey-Heard|8B|Fat Lip||||
 |Ollie Torr|8B|Fat Lip||||
@@ -76,5 +78,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Andy Early|8B|Cypher, The Ace||||
 |Ben Bransby|8B|BonAttrocity||||
 |Tom Williams|||?|||
-|Nathan Phillips|8B+|Mystic Stylez||||
 |Liam Desroy|||?|||
