@@ -37,6 +37,9 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Elliot Stephens|8B+|New Baseline||||
 |Nathan Phillips|8B+|Mystic Stylez||||
 |Johnny Kydd|8B+|Spaceship||||
+|Tom Peckitt|8B+|Amandala||||
+|Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
+|Dave Jones|8B+|Warpath||||
 |Pete Robins|8B|Madam Allure, Isles of Wonder||||
 |Ash Wolsey-Heard|8B|Fat Lip||||
 |Ollie Torr|8B|Fat Lip||||
@@ -58,7 +61,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jordan Buys|8B|High Fidelity||||
 |James Thornton|8B|The Ace||||
 |Keith Bradbury|8B|Amagamma||||
-|Tom Peckitt|8B+|Amandala||||
 |Joe Wilson|8B|Bloodsport LH||||
 |Wiz Fineron|8B|The Vice, Riverbed||||
 |Danny Cattell|8B|Le Dernier Attrocity||||
@@ -70,12 +72,18 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dave Nodden|8B|Keen Roof||||
 |Michael Bleazard|8B|Steppenwolf||||
 |Jonny Argue|8B|Fat lip||||
-|Mark Mcquade||Sanction?||||
-|Rob Sutton|8B||?|Something at dumby?||
 |Dan Smith|8B|Middle Trifecta|||2014|
 |Gareth Parry|8B|Isla de Encanta, Anaesthesia||||
 |Rupert Davies|8B|Keen Roof||||
 |Andy Early|8B|Cypher, The Ace||||
 |Ben Bransby|8B|BonAttrocity||||
-|Tom Williams|||?|||
-|Liam Desroy|||?|||
+|Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
+|Liam Desroy|8B|Vecchio Leone, The Riverbed||||
+|Eli Cartwright|8B|The Riverbed||||
+|Alex Moore|8B|Isla d'encanta||||
+|Liam Fyffe|8B|Ropes of Maui||||
+|Will Buck|8B|Rhythm||||
+|Alex Waterhouse|8B|Merlin's Beard||||
+|Dave Cowl|8B|Reel Keelhaul||||
+|Mark Mcquade||Sanction?||||
+|Rob Sutton|8B||?|Something at dumby?||
