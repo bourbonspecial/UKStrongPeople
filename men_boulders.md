@@ -51,7 +51,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tom Newberry|8B|Keen Roof||||
 |Tim Palmer|8B|Keen Roof, Mandala SDS||||
 |Haydn Jones|8B|Keen Roof, Fat Lip||||
-|Hamish Potokar|8B|The Ace||||
+|Hamish Potokar|8B|The Ace, Sanction, Pressure||||
 |Jerry Moffat|8B|The Ace, Voyager||||
 |Billy Ridal|8B|The Riverbed, The Vice||||
 |Morgan Preece|8B|The Riverbed||||
