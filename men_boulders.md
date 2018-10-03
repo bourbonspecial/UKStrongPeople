@@ -30,7 +30,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dave Barrans|8B+|Gecko Assiss||||
 |Nigel Callender|8B+|Monk Life||||
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
-|Orrin Coley|8B+|Ladybird Orgy||||
+|Orrin Coley|8B+|Ladybird Orgy (x)||||
 |Mike Hart|8B+|Pilgrimage||||
 |Tom Newman|8B+|Serendipity||||
 |Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
@@ -43,7 +43,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Pete Robins|8B|Madam Allure, Isles of Wonder||||
 |Ash Wolsey-Heard|8B|Fat Lip||||
 |Ollie Torr|8B|Fat Lip||||
-|Will Smith|8B|Fat Lip||||
+|Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Andy Burgess|8B|Keen Roof||||
 |Sam Prior|8B|Keen Roof||||
 |Pete Dawson|8B|Keen Roof||||
@@ -83,9 +83,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Alex Moore|8B|Isla d'encanta||||
 |Liam Fyffe|8B|Ropes of Maui||||
 |Will Buck|8B|Rhythm||||
-|Alex Waterhouse|8B|Merlin's Beard||||
+|Alex Waterhouse|8B|Merlin's Beard (x)||||
 |Dave Cowl|8B|Reel Keelhaul||||
 |Andy Banks|8B|Vice President, Flor de Loto||||
 |Luke FLetcher|8B|Ropes of Maui||||
+|Phil Rose|8B|Keen Roof||||
 |Mark Mcquade||Sanction?||||
 |Rob Sutton|8B||?|Something at dumby?||
