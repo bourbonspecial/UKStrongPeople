@@ -9,20 +9,20 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ned Feehally|8C|The Big Island||||
 |James Squire|8C|The World is Yours (x)|||2018|
 |Mike Adams|8C|Serenata||||
-|James Noble|8C|Bordello SDS||||
 |Tyler Landman|8C|Practice of the Wild||||
 |Toby Saxton|8C|The Finnish Line||||
 |Dawid Skoczylas|8C|Serenata||||
-|john Gaskins|8C|Walk Away SDS||||
+|John Gaskins|8C|Walk Away SDS||||
 |Tim Clifford|8B+/C|The Singularity||||
 |Aidan Roberts|8C|Monkey Wedding||||
+|James Noble|8B+|Bordello SDS||||
 |Micky Paige|8B+|Big Paw, Monk Life, Kheops Assiss, Black Eagle||||
 |Max Milne|8B+|Lord Faquhar (x)||||
 |Ben Moon|8B+|Voyager Sit||||
 |Dan Turner|8B+|Voyager Sit, Bewilderness, Monk Life||||
 |Malcom Smith|8B+|Pilgrimage, Leviathan (x), Monk Life||||
 |Dan Varian|8B+|The Rail (x), Bewilderness||||
-|Dave Mason|8B+|Mortal Immortal, King of Limbs, Bewilderness||||
+|Dave Mason|8B+|Mortal Immortal, Bewilderness||||
 |Simon Newstead|8B+|The Island||||
 |Ben Freeman|8B+|Monk Life, Dandelion Mind||||
 |Alex Barrows|8B+|Belly of the Beast||||
@@ -40,6 +40,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tom Peckitt|8B+|Amandala||||
 |Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
 |Dave Jones|8B+|Warpath||||
+|Euan MacFadyen|8B/+|King of Limbs, Golden Shadow||||
 |Pete Robins|8B|Madam Allure, Isles of Wonder||||
 |Ash Wolsey-Heard|8B|Fat Lip||||
 |Ollie Torr|8B|Fat Lip||||
