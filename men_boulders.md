@@ -16,13 +16,13 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dawid Skoczylas|8C|Serenata||||
 |john Gaskins|8C|Walk Away SDS||||
 |Tim Clifford|8B+/C|The Singularity||||
-|Aidan Roberts|8B+|Oliphant's Dawn||||
+|Aidan Roberts|8C|Monkey Wedding||||
 |Max Milne|8B+|Lord Faquhar (x)||||
 |Ben Moon|8B+|Voyager Sit||||
 |Dan Turner|8B+|Voyager Sit, Bewilderness, Monk Life||||
 |Malcom Smith|8B+|Pilgrimage||||
 |Dan Varian|8B+|The Rail (x), Bewilderness||||
-|Dave Mason|8B+|Mortal Immortal, King of Limbs||||
+|Dave Mason|8B+|Mortal Immortal, King of Limbs, Bewilderness||||
 |Simon Newstead|8B+|The Island||||
 |Ben Freeman|8B+|Monk Life, Dandelion Mind||||
 |Alex Barrows|8B+|Belly of the Beast||||
@@ -34,7 +34,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Mike Hart|8B+|Pilgrimage||||
 |Tom Newman|8B+|Serendipity||||
 |Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
-|Elliot Stephens|8B+|New Baseline, Golden Shadow||||
+|Elliot Stephens|8B+|New Baseline||||
 |Pete Robins|8B|Madam Allure, Isles of Wonder||||
 |Ash Wolsey-Heard|8B|Fat Lip||||
 |Ollie Torr|8B|Fat Lip||||
@@ -48,7 +48,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Haydn Jones|8B|Keen Roof, Fat Lip||||
 |Hamish Potokar|8B|The Ace||||
 |Jerry Moffat|8B|The Ace, Voyager||||
-|Billy Ridal|8B|The Riverbed||||
+|Billy Ridal|8B|The Riverbed, The Vice||||
 |Morgan Preece|8B|The Riverbed||||
 |Dan Knight|8B|Mooiste Maise||||
 |Alex Gorham|8B|Mooiste Maise, Riverbed||||
@@ -56,7 +56,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jordan Buys|8B|High Fidelity||||
 |James Thornton|8B|The Ace||||
 |Keith Bradbury|8B|Amagamma||||
-|Tom Peckitt|8B|Patina Turner||||
+|Tom Peckitt|8B+|Amandala||||
 |Joe Wilson|8B|Bloodsport LH||||
 |Wiz Fineron|8B|The Vice, Riverbed||||
 |Danny Cattell|8B|Le Dernier Attrocity||||
@@ -74,7 +74,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Gareth Parry|8B|Isla de Encanta, Anaesthesia||||
 |Rupert Davies|8B|Keen Roof||||
 |Andy Early|8B|Cypher, The Ace||||
+|Ben Bransby|8B|BonAttrocity||||
 |Tom Williams|||?|||
-|Nathan Phillips|||?|||
+|Nathan Phillips|8B+|Mystic Stylez||||
 |Liam Desroy|||?|||
-|Ben Bransby|||?|||
