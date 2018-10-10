@@ -11,12 +11,12 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tom Bolger|9a/+|Cuidad de dios||||
 |Stevie Haston|9a|Hugh, Descente Lolitta||||
 |Alex Barrows|9a|Era Vella, Bad Girl's Club||||
-|Jordan Buys|9a|Rainshadow||||
-|Ben Moon|9a|Rainshadow||Also first ascent of Hubble, the world's first 8c+/9a (depending on who you ask).||
-|James McHaffie|9a|Big Bang, The Meltdown||FA of The Meltdown, one of the harder slabs in the world.||
-|Stuart Littlefair|9a|Rainshadow||||
-|Ryan Pasquill|9a|Rainshadow, Speed Integrale||||
 |William Bosi|9a|Rainshadow, Hunger||||
+|Ryan Pasquill|9a|Rainshadow, Speed Integrale||||
+|James McHaffie|9a|Big Bang, The Meltdown (x)||FA of The Meltdown, one of the harder slabs in the world.||
+|Ben Moon|9a|Rainshadow||Also first ascent of Hubble, the world's first 8c+/9a (depending on who you ask).||
+|Jordan Buys|9a|Rainshadow||||
+|Stuart Littlefair|9a|Rainshadow||||
 |Malcom Smith|9a|Hunger||||
 |Will Smith|9a|Era Vella||||
 |Pete Dawson|9a|Rainshadow||||
