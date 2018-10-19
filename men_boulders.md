@@ -92,5 +92,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Mikey Cleavdon|8B|Waterman||||
 |Cailean Harker|8B|The Ace||||
 |James Peason|8B|Keen Roof||||
+|Ben West|8B|Steppenwolf|||2018|
 |Mark Mcquade||Sanction?||||
 |Rob Sutton|8B||?|Something at dumby?||
