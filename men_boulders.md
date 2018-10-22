@@ -13,8 +13,8 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Toby Saxton|8C|The Finnish Line||||
 |Dawid Skoczylas|8C|Serenata||||
 |John Gaskins|8C|Walk Away SDS||||
-|Tim Clifford|8B+/C|The Singularity||||
 |Aidan Roberts|8C|Monkey Wedding||||
+|Tim Clifford|8B+/C|The Singularity||||
 |James Noble|8B+|Bordello SDS||||
 |Micky Paige|8B+|Big Paw, Monk Life, Kheops Assiss, Black Eagle||||
 |Max Milne|8B+|Lord Faquhar (x)||||
@@ -39,6 +39,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Johnny Kydd|8B+|Spaceship||||
 |Tom Peckitt|8B+|Amandala||||
 |Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
+|Andy Early|8B+|Monk Life||||
 |Dave Jones|8B+|Warpath||||
 |Euan MacFadyen|8B/+|King of Limbs, Golden Shadow||||
 |Pete Robins|8B|Madam Allure, Isles of Wonder||||
@@ -76,7 +77,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dan Smith|8B|Middle Trifecta|||2014|
 |Gareth Parry|8B|Isla de Encanta, Anaesthesia||||
 |Rupert Davies|8B|Keen Roof||||
-|Andy Early|8B|Cypher, The Ace||||
 |Ben Bransby|8B|BonAttrocity||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
 |Liam Desroy|8B|Vecchio Leone, The Riverbed||||
