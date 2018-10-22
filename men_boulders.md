@@ -5,24 +5,24 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
 |Dave Macleod|8C|Practice of the Wild||||
-|Will Bosi|8C|Practice of the Wild||||
+|Will Bosi|8C|Practice of the Wild|||2018|
 |Ned Feehally|8C|The Big Island||||
-|James Squire|8C|The World is Yours (x)||||
+|James Squire|8C|The World is Yours (x)|||2018|
 |Mike Adams|8C|Serenata||||
-|James Noble|8C|Bordello SDS||||
 |Tyler Landman|8C|Practice of the Wild||||
-|Micky Paige|8B+|Big Paw, Monk Life, Kheops Assiss, Black Eagle||||
 |Toby Saxton|8C|The Finnish Line||||
 |Dawid Skoczylas|8C|Serenata||||
-|john Gaskins|8C|Walk Away SDS||||
+|John Gaskins|8C|Walk Away SDS||||
+|Aidan Roberts|8C|Monkey Wedding||||
 |Tim Clifford|8B+/C|The Singularity||||
-|Aidan Roberts|8B+|Oliphant's Dawn||||
+|James Noble|8B+|Bordello SDS||||
+|Micky Paige|8B+|Big Paw, Monk Life, Kheops Assiss, Black Eagle||||
 |Max Milne|8B+|Lord Faquhar (x)||||
 |Ben Moon|8B+|Voyager Sit||||
 |Dan Turner|8B+|Voyager Sit, Bewilderness, Monk Life||||
-|Malcom Smith|8B+|Pilgrimage||||
+|Malcom Smith|8B+|Pilgrimage, Leviathan (x), Monk Life||||
 |Dan Varian|8B+|The Rail (x), Bewilderness||||
-|Dave Mason|8B+|Mortal Immortal, King of Limbs||||
+|Dave Mason|8B+|Mortal Immortal, Bewilderness||||
 |Simon Newstead|8B+|The Island||||
 |Ben Freeman|8B+|Monk Life, Dandelion Mind||||
 |Alex Barrows|8B+|Belly of the Beast||||
@@ -30,16 +30,24 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dave Barrans|8B+|Gecko Assiss||||
 |Nigel Callender|8B+|Monk Life||||
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
-|Orrin Coley|8B+|Ladybird Orgy||||
+|Orrin Coley|8B+|Ladybird Orgy (x)||||
 |Mike Hart|8B+|Pilgrimage||||
 |Tom Newman|8B+|Serendipity||||
 |Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
 |Elliot Stephens|8B+|New Baseline, Golden Shadow||||
 |Steve McClure|8B|Fat Lip, Close of Business||||
+|Elliot Stephens|8B+|New Baseline||||
+|Nathan Phillips|8B+|Mystic Stylez||||
+|Johnny Kydd|8B+|Spaceship||||
+|Tom Peckitt|8B+|Amandala||||
+|Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
+|Andy Earl|8B+|Monk Life||||
+|Dave Jones|8B+|Warpath||||
+|Euan MacFadyen|8B/+|King of Limbs, Golden Shadow||||
 |Pete Robins|8B|Madam Allure, Isles of Wonder||||
 |Ash Wolsey-Heard|8B|Fat Lip||||
 |Ollie Torr|8B|Fat Lip||||
-|Will Smith|8B|Fat Lip||||
+|Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Andy Burgess|8B|Keen Roof||||
 |Sam Prior|8B|Keen Roof||||
 |Pete Dawson|8B|Keen Roof||||
@@ -47,9 +55,9 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tom Newberry|8B|Keen Roof||||
 |Tim Palmer|8B|Keen Roof, Mandala SDS||||
 |Haydn Jones|8B|Keen Roof, Fat Lip||||
-|Hamish Potokar|8B|The Ace||||
+|Hamish Potokar|8B|The Ace, Sanction, Pressure||||
 |Jerry Moffat|8B|The Ace, Voyager||||
-|Billy Ridal|8B|The Riverbed||||
+|Billy Ridal|8B|The Riverbed, The Vice||||
 |Morgan Preece|8B|The Riverbed||||
 |Dan Knight|8B|Mooiste Maise||||
 |Alex Gorham|8B|Mooiste Maise, Riverbed||||
@@ -57,7 +65,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jordan Buys|8B|High Fidelity||||
 |James Thornton|8B|The Ace||||
 |Keith Bradbury|8B|Amagamma||||
-|Tom Peckitt|8B|Patina Turner||||
 |Joe Wilson|8B|Bloodsport LH||||
 |Wiz Fineron|8B|The Vice, Riverbed||||
 |Danny Cattell|8B|Le Dernier Attrocity||||
@@ -69,13 +76,25 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dave Nodden|8B|Keen Roof||||
 |Michael Bleazard|8B|Steppenwolf||||
 |Jonny Argue|8B|Fat lip||||
-|Mark Mcquade||Sanction?||||
-|Rob Sutton|8B||?|Something at dumby?||
 |Dan Smith|8B|Middle Trifecta|||2014|
 |Gareth Parry|8B|Isla de Encanta, Anaesthesia||||
 |Rupert Davies|8B|Keen Roof||||
-|Andy Early|8B|Cypher, The Ace||||
-|Tom Williams|||?|||
-|Nathan Phillips|||?|||
-|Liam Desroy|||?|||
-|Ben Bransby|||?|||
+|Ben Bransby|8B|BonAttrocity||||
+|Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
+|Liam Desroy|8B|Vecchio Leone, The Riverbed||||
+|Eli Cartwright|8B|The Riverbed||||
+|Alex Moore|8B|Isla d'encanta||||
+|Liam Fyffe|8B|Ropes of Maui||||
+|Will Buck|8B|Rhythm||||
+|Alex Waterhouse|8B|Merlin's Beard (x)||||
+|Dave Cowl|8B|Reel Keelhaul||||
+|Andy Banks|8B|Vice President, Flor de Loto||||
+|Luke FLetcher|8B|Ropes of Maui||||
+|Phil Rose|8B|Keen Roof||||
+|Mikey Cleavdon|8B|Waterman||||
+|Cailean Harker|8B|The Ace||||
+|James Peason|8B|Keen Roof||||
+|Ben West|8B|Steppenwolf, Mooiste Meisie|||2015|
+|Paul Houghoughi|8B|You can go now||||
+|Mark Mcquade||Sanction?||||
+|Rob Sutton|8B||?|Something at dumby?||
