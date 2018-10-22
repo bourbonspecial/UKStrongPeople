@@ -35,6 +35,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tom Newman|8B+|Serendipity||||
 |Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
 |Elliot Stephens|8B+|New Baseline, Golden Shadow||||
+|Steve McClure|8B|Fat Lip, Close of Business||||
 |Pete Robins|8B|Madam Allure, Isles of Wonder||||
 |Ash Wolsey-Heard|8B|Fat Lip||||
 |Ollie Torr|8B|Fat Lip||||
