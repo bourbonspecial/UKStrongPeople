@@ -92,6 +92,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Mikey Cleavdon|8B|Waterman||||
 |Cailean Harker|8B|The Ace||||
 |James Peason|8B|Keen Roof||||
-|Ben West|8B|Steppenwolf|||2018|
+|Ben West|8B|Steppenwolf, Mooiste Meisie|||2015|
+|Paul Houghoughi|8B|You can go now||||
 |Mark Mcquade||Sanction?||||
 |Rob Sutton|8B||?|Something at dumby?||
