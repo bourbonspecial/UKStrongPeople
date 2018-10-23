@@ -43,6 +43,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
 |Andy Earl|8B+|Monk Life||||
 |Dave Jones|8B+|Warpath||||
+|Neil Dyer|8B+|Silk Cut||||
 |Euan MacFadyen|8B/+|King of Limbs, Golden Shadow||||
 |Pete Robins|8B|Madam Allure, Isles of Wonder||||
 |Ash Wolsey-Heard|8B|Fat Lip||||
