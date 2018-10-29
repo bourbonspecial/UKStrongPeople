@@ -27,7 +27,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |John Dunne|8c+/9a (x)|Total Eclipse||Originally given 8c+ but unrepeated and [reckoned to be 8c+/9a by Ondra](https://www.ukclimbing.com/news/2011/06/ondra_speaks_on_total_eclipse-62560).||
 |Steve Dunning|8c+/9a|Hubble||||
 |Ken Palmer|8c+|Brian||||
-|Luke Dawson|8c+|Blomu R3||||
+|Luke Dawson|8c+|Blomu R3, Brian||||
 |Stew Watson|8c+|One Night Stand||||
 |Gaz Parry|8c+|Supersonico||||
 |Tim Palmer|8c+|Progress||||
