@@ -92,7 +92,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Andy Banks|8B|Vice President, Flor de Loto||||
 |Luke FLetcher|8B|Ropes of Maui||||
 |Phil Rose|8B|Keen Roof||||
-|Mikey Cleavdon|8B|Waterman||||
+|Mikey Cleverdon|8B|Waterman||||
 |Cailean Harker|8B|The Ace||||
 |James Peason|8B|Keen Roof||||
 |Ben West|8B|Steppenwolf, Mooiste Meisie|||2015|
