@@ -80,3 +80,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Helen Dudley|8a|Coliseum?|?|||
 |Becca lounds|8a|Aberration|||2018|
 |Koon Morris|8a|Ching|||2018|
+|Sarah Pashley|8a|La Tuerie d'Oriol|||2017|
