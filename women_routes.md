@@ -9,10 +9,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Emma Twyford|8c|Mind Control|||2018|
 |Lucy Mitchell|8c|Fish Eye|||2017|
 |Maddie Cope|8c|Bat Route|||2017|
+|Molly Thompson-Smith|8c|Fabelita|||2018|
 |Katy Whittaker|8b+|Mecca|||2014|
 |Lucy Creamer|8b+|Kalea Borroka||First 8b+ by a UK woman.|2009|
 |Frances Bensley|8b+|Kalea Borroka|||2018|
-|Molly Thompson-Smith|8b+|Mecca|||2017|
 |Karin Magog|8b+|Mundo Feliz|||2017|
 |Rhoslyn Frugniet|8b+|Helvetia||First 8a+ flash with Face de Rat.|2018|
 |Ruth Jenkins|8b|Zeke the Freak||First 8b by a UK woman. Also first 8a+ with Caviar.|1995|
