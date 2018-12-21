@@ -9,7 +9,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Emma Twyford|8c|Mind Control|||2018|
 |Lucy Mitchell|8c|Fish Eye|||2017|
 |Maddie Cope|8c|Bat Route|||2017|
-|Molly Thompson-Smith|8c|Fabelita|||2018|
+|Molly Thompson-Smith|8c|Fabelita, Rollito Sharma Extension|||2018|
 |Katy Whittaker|8b+|Mecca|||2014|
 |Lucy Creamer|8b+|Kalea Borroka||First 8b+ by a UK woman.|2009|
 |Frances Bensley|8b+|Kalea Borroka|||2018|
