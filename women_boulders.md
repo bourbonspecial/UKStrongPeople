@@ -18,6 +18,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Holly Rees|8A|Ben's Roof Extension||No knees.||
 |Michaela Tracy|7C+/8A|The Dark Room||||
 |Emma Flaherty|8A|Backstreet Mime Artist, Röyksopp||||
+|Vickie Fringe|8A|Backstreet Mime Artist|||2019|
 |Ellie Bacmeister|8A|White Light||||
 |Tara Hayes|8A|Nutsa||||
 |Molly Thompson-Smith|8A|Dead Can't Dance, Tsunami||||
