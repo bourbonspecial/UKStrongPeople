@@ -98,6 +98,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ben West|8B|Steppenwolf, Mooiste Meisie|||2015|
 |Paul Houghoughi|8B|You can go now||||
 |Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
+|Matthew Wright|8B|Serenity|||2019|
 |Will Atkinson|8B|One Step Beyond (x)||||
 |Mark Mcquade||Sanction?||||
 |Rob Sutton|8B||?|Something at dumby?||
