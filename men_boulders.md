@@ -50,7 +50,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ollie Torr|8B|Fat Lip||||
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Andy Burgess|8B|Keen Roof||||
-|Sam Prior|8B|Keen Roof||||
+|Sam Prior|8B|Keen Roof, Voyager||||
 |Pete Dawson|8B|Keen Roof||||
 |Luke Dawson|8B|Keen Roof||||
 |Tom Newberry|8B|Keen Roof||||
