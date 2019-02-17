@@ -46,7 +46,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Neil Dyer|8B+|Silk Cut||||
 |Euan MacFadyen|8B/+|King of Limbs, Golden Shadow||||
 |Pete Robins|8B|Madam Allure, Isles of Wonder||||
-|Ash Wolsey-Heard|8B|Fat Lip||||
+|Ash Wolsey-Heard|8B|Fat Lip, Voyager||||
 |Ollie Torr|8B|Fat Lip||||
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Andy Burgess|8B|Keen Roof||||
@@ -78,7 +78,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Michael Bleazard|8B|Steppenwolf||||
 |Jonny Argue|8B|Fat lip||||
 |Dan Smith|8B|Middle Trifecta|||2014|
-|Gareth Parry|8B|Isla de Encanta, Anaesthesia||||
+|Gareth Parry|8B|Isla de Encanta||||
 |Rupert Davies|8B|Keen Roof||||
 |Ben Bransby|8B|BonAttrocity||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
@@ -100,6 +100,8 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
 |Matthew Wright|8B|Serenity|||2019|
 |Sam Hunter|8B|Elephunk|||2018|
+|Richard Hession|8B|Louis Armstrong||||
+|Louis Parkinson|8B|Riverbed||||
 |Will Atkinson|8B|One Step Beyond (x)||||
 |Mark Mcquade||Sanction?||||
 |Rob Sutton|8B||?|Something at dumby?||
