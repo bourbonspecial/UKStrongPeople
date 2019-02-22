@@ -47,22 +47,23 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Pete Robins|8B+|Silk Cut||||
 |Tim Palmer|8B+|Mandala SDS||||
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
+|Hamish Potokar|8B|The Ace, Sanction, Pressure||||
+|Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
+|Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
 |Euan MacFadyen|8B/+|King of Limbs, Golden Shadow||||
 |Ash Wolsey-Heard|8B|Fat Lip, Voyager||||
 |Sam Prior|8B|Keen Roof, Voyager||||
 |Haydn Jones|8B|Keen Roof, Fat Lip||||
-|Hamish Potokar|8B|The Ace, Sanction, Pressure||||
 |Jerry Moffat|8B|The Ace, Voyager||||
 |Billy Ridal|8B|The Riverbed, The Vice||||
 |Alex Gorham|8B|Mooiste Maise, Riverbed||||
 |Mark Katz|8B|High Fidelity, Rhythm||||
 |Ryan Pasquill|8B|Cypher, The Ace||||
 |Wiz Fineron|8B|The Vice, Riverbed||||
-|Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
 |Liam Desroy|8B|Vecchio Leone, The Riverbed||||
 |Andy Banks|8B|Vice President, Flor de Loto||||
 |Ben West|8B|Steppenwolf, Mooiste Meisie|||2015|
-|Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
+|Matthew Wright|8B|Serenity, Keen Roof|||2019|
 |Ollie Torr|8B|Fat Lip||||
 |Andy Burgess|8B|Keen Roof||||
 |Pete Dawson|8B|Keen Roof||||
@@ -98,10 +99,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Cailean Harker|8B|The Ace||||
 |James Peason|8B|Keen Roof||||
 |Paul Houghoughi|8B|You can go now||||
-|Matthew Wright|8B|Serenity|||2019|
 |Sam Hunter|8B|Elephunk|||2018|
 |Richard Hession|8B|Louis Armstrong||||
 |Louis Parkinson|8B|Riverbed||||
+|Jamie Cassidy|8B|Directors Cut||||
 |Will Atkinson|8B|One Step Beyond (x)||||
 |Mark Mcquade||Sanction?||||
 |Rob Sutton|8B||?|Something at dumby?||
