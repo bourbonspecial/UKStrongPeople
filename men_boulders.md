@@ -36,7 +36,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Mike Hart|8B+|Pilgrimage||||
 |Tom Newman|8B+|Serendipity||||
 |Steve McClure|8B|Fat Lip, Close of Business||||
-|Elliot Stephens|8B+|New Baseline||||
 |Nathan Phillips|8B+|Mystic Stylez||||
 |Johnny Kydd|8B+|Spaceship||||
 |Tom Peckitt|8B+|Amandala||||
@@ -103,6 +102,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Richard Hession|8B|Louis Armstrong||||
 |Louis Parkinson|8B|Riverbed||||
 |Jamie Cassidy|8B|Directors Cut||||
+|Ellis Butler-Barker|8B|Occam's Razor||||
 |Will Atkinson|8B|One Step Beyond (x)||||
 |Mark Mcquade||Sanction?||||
 |Rob Sutton|8B||?|Something at dumby?||
