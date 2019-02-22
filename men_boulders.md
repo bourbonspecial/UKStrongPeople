@@ -45,6 +45,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Neil Dyer|8B+|Silk Cut||||
 |Pete Robins|8B+|Silk Cut||||
 |Tim Palmer|8B+|Mandala SDS||||
+|Chris Davies|8B+|Power of Goodbye||||
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Hamish Potokar|8B|The Ace, Sanction, Pressure||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
