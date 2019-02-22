@@ -55,6 +55,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Kitty Wallace|7C|Le Carnage Assis||||
 |Llinos Cassidy|7C|Fat Cat Roof||||
 |Kate Ennis|7C|Oreo||||
+|Evelyn Dearlove|7C|Enchantress||||
 |Anna|||?|climbs at the depot?||
 |Naomi Buys|||?|did she do Tourniquet or something?||
 |Dalvinder Sodhi|||?||||
