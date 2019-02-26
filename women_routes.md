@@ -82,3 +82,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Sarah Pashley|8a|La Tuerie d'Oriol|||2017|
 |Heather Florence|8a|Chryssalida|||2018|
 |Hannah Toward|8a|La Guardia||Age 11!|2019|
+|Shauna Coxsey|8a|Watermark||||
