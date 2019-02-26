@@ -6,9 +6,9 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |------|-------|-------|------|-----|----|
 |Mina Leslie-Wujastik|8c|Mecca Extension, Bat Route, Nordic Plumber, Raining Bats and Dogs|||2014|
 |Hazel Findlay|8c|Mind Control, Fish Eye||First 8c by a UK woman with Fish Eye.|2014|
+|Maddie Cope|8c|Bat Route, Mind Control|||2017|
 |Emma Twyford|8c|Mind Control|||2018|
 |Lucy Mitchell|8c|Fish Eye|||2017|
-|Maddie Cope|8c|Bat Route|||2017|
 |Molly Thompson-Smith|8c|Fabelita, Rollito Sharma Extension|||2018|
 |Katy Whittaker|8b+|Mecca|||2014|
 |Lucy Creamer|8b+|Kalea Borroka||First 8b+ by a UK woman.|2009|
@@ -22,7 +22,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jenny Woodward|8b|Predator|||2009|
 |Lucinda Whittaker|8b|Austrian Oak|||2011|
 |Michaela Tracy|8b|Ramadan|||2012|
-|Shauna Coxsey|8b|?||||
 |Charlotte Garden|8b|Lightning||||
 |Naomi Buys|8b|Wicked Gravity|||2016?|
 |Wendy Coles|8b|Eurofighter|||2015|
