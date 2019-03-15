@@ -24,12 +24,12 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Molly Thompson-Smith|8A|Dead Can't Dance, Tsunami||||
 |Gill Peet|8A|Moreau's Island||||
 |Steph Holland|8A|Witness th Churnetness||||
+|Rhoslyn Frugniet|8A|Teamwork||||
 |Claire Curling|8A||?|||
 |Katy Whittaker|7C+|Shirley's Shining Temple (flash), The Hatchling||||
 |Emma Twyford|7C+|Lotus||||
 |Lucinda Whittaker|7C+|Caroline||||
 |Lucy Creamer|7C+|Trente Six||||
-|Rhoslyn Frugniet|7C+|Caroline, AWOL Apprentice||||
 |Naomis Cokell|7C+|Megalithe||||
 |Charlotte Garden|7C+|Caroline, The Departed||||
 |Rachel Carr|7C+|Caroline||||
