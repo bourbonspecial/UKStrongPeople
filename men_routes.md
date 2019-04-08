@@ -12,7 +12,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Stevie Haston|9a|Hugh, Descente Lolitta||||
 |Alex Barrows|9a|Era Vella, Bad Girl's Club||||
 |William Bosi|9a|Rainshadow, Hunger||||
-|Ryan Pasquill|9a|Rainshadow, Speed Integrale||||
+|Ryan Pasquill|9a|Rainshadow, Speed Integrale, Bain de Sang||||
 |James McHaffie|9a|Big Bang, The Meltdown (x)||FA of The Meltdown, one of the harder slabs in the world.||
 |Ben Moon|9a|Rainshadow||Also first ascent of Hubble, the world's first 8c+/9a (depending on who you ask).||
 |Jordan Buys|9a|Rainshadow||||
@@ -22,6 +22,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Pete Dawson|9a|Rainshadow||||
 |Buster Martin|9a|Rainshadow||||
 |Neil Carson|9a|Big Bang||||
+|Alex Waterhouse|9a|The Fly|||2019|
 |Dave Macleod|8c+/9a (x)|Fight the Feeling||||
 |James Pearson|8c+/9a|Escalatamàsters||||
 |John Dunne|8c+/9a (x)|Total Eclipse||Originally given 8c+ but unrepeated and [reckoned to be 8c+/9a by Ondra](https://www.ukclimbing.com/news/2011/06/ondra_speaks_on_total_eclipse-62560).||
@@ -52,7 +53,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |John Welford|8c+|The Bastard||Originally given 8c but upgraded to 8c+.||
 |Tom Newberry|8c+|Spicy Noodle||||
 |Paul Smitton|8c+|Kaa'bah||Second ascent.||
-|Alex Waterhouse|9a|The Fly|||2019|
 |Josh Ibbertson|8c+|?||Aged 14.||
 |Neil Mawson|8c/+|Raining Bats and Dogs||||
 |Richard Waterton|8c/+|Raining Bats and Dogs||||
