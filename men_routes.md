@@ -52,7 +52,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |John Welford|8c+|The Bastard||Originally given 8c but upgraded to 8c+.||
 |Tom Newberry|8c+|Spicy Noodle||||
 |Paul Smitton|8c+|Kaa'bah||Second ascent.||
-|Alex Waterhouse|8c+|Greed||||
+|Alex Waterhouse|9a|The Fly|||2019|
 |Josh Ibbertson|8c+|?||Aged 14.||
 |Neil Mawson|8c/+|Raining Bats and Dogs||||
 |Richard Waterton|8c/+|Raining Bats and Dogs||||
