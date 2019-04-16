@@ -6,7 +6,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |------|-------|-------|------|-----|----|
 |Shauna Coxsey|8B+|New Base Line||||
 |Mina Leslie-Wujastik|8B|Pursuit of Happiness||||
-|Frances Bensely|8B|Fat Lip|||2018|
+|Frances Bensely|8B|Fat Lip, Keen Roof|||2018|
 |Claire Murphy|8A+|Chbalanke, Sarah SS||||
 |Suzan Dudink|8A+|Tea with Elmarie||||
 |Ella Russell|8A+|Sleepy Hollow||||
