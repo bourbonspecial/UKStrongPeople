@@ -27,7 +27,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Rhoslyn Frugniet|8A|Teamwork|||2019|
 |Rachel Carr|8A|God Save My Finger|||2019|
 |Jo Allen|8A|Backstreet Mime Artist||||
-|Claire Curling|8A||?|||
 |Katy Whittaker|7C+|Shirley's Shining Temple (flash), The Hatchling||||
 |Emma Twyford|7C+|Lotus||||
 |Lucinda Whittaker|7C+|Caroline||||
@@ -57,7 +56,3 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Llinos Cassidy|7C|Fat Cat Roof||||
 |Kate Ennis|7C|Oreo||||
 |Evelyn Dearlove|7C|Enchantress||||
-|Anna|||?|climbs at the depot?||
-|Naomi Buys|||?|did she do Tourniquet or something?||
-|Dalvinder Sodhi|||?||||
-|Katy Mundy|||?|||
