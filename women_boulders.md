@@ -24,7 +24,9 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Molly Thompson-Smith|8A|Dead Can't Dance, Tsunami||||
 |Gill Peet|8A|Moreau's Island||||
 |Steph Holland|8A|Witness th Churnetness||||
-|Rhoslyn Frugniet|8A|Teamwork||||
+|Rhoslyn Frugniet|8A|Teamwork|||2019|
+|Rachel Carr|8A|God Save My Finger|||2019|
+|Jo Allen|8A|Backstreet Mime Artist||||
 |Claire Curling|8A||?|||
 |Katy Whittaker|7C+|Shirley's Shining Temple (flash), The Hatchling||||
 |Emma Twyford|7C+|Lotus||||
@@ -32,12 +34,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Lucy Creamer|7C+|Trente Six||||
 |Naomis Cokell|7C+|Megalithe||||
 |Charlotte Garden|7C+|Caroline, The Departed||||
-|Rachel Carr|7C+|Caroline||||
 |Helen Dudley|7C+| Iceberg (aller-detour)||||
 |Imogen Horrcks|7C+|The Hatchling||||
 |Katie Maxwell|7C+|Caroline, Working 9-5 Stand||||
 |Charlotte Telfer|7C|Jess's Roof ||||
-|Jo Allen|8A|Backstreet Mime Artist||||
 |Charlie Torrance|7C|Rock Atrocity, Fish Pie||||
 |Michelle Wardle|7C|Rock Atrocity||||
 |Diane Merrick|7C|Paint it Black||||
