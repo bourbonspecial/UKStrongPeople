@@ -6,22 +6,22 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
-|Steve Mcclure|9b (x)|Rainman||First 9b by a british man and first 9b in the UK. Many other notable ascents up to 9a+.||
+|Steve Mcclure|9b (x)|Rainman||First 9b by a british man and first 9b in the UK. Many other notable ascents up to 9a+.|2017|
 |John Gaskins|9a+ (x)|Violent New Breed||||
-|Tom Bolger|9a/+|Cuidad de dios||||
-|Stevie Haston|9a|Hugh, Descente Lolitta||||
-|Alex Barrows|9a|Era Vella, Bad Girl's Club||||
-|William Bosi|9a|Rainshadow, Hunger||||
-|Ryan Pasquill|9a|Rainshadow, Speed Integrale, Bain de Sang||||
-|James McHaffie|9a|Big Bang, The Meltdown (x)||FA of The Meltdown, one of the harder slabs in the world.||
-|Ben Moon|9a|Rainshadow||Also first ascent of Hubble, the world's first 8c+/9a (depending on who you ask).||
-|Jordan Buys|9a|Rainshadow||||
-|Stuart Littlefair|9a|Rainshadow||||
-|Malcom Smith|9a|Hunger||||
-|Will Smith|9a|Era Vella||||
-|Pete Dawson|9a|Rainshadow||||
-|Buster Martin|9a|Rainshadow||||
-|Neil Carson|9a|Big Bang||||
+|Tom Bolger|9a/+|Cuidad de dios|||2011|
+|Stevie Haston|9a|Descente Lolitta, Hugh|||2009, 2010|
+|Alex Barrows|9a|Era Vella, Bad Girl's Club|||2015, |
+|William Bosi|9a|Rainshadow, Hunger|||2016, 2018|
+|Ryan Pasquill|9a|Rainshadow, Speed Integrale, Bain de Sang|||2018, 2018, 2019|
+|James McHaffie|9a|Big Bang, The Meltdown (x)||FA of The Meltdown, one of the harder slabs in the world.|2011, 2012|
+|Ben Moon|9a|Rainshadow||Also first ascent of Hubble, the world's first 8c+/9a in 1990 (depending on who you ask).|2015|
+|Jordan Buys|9a|Rainshadow|||2013|
+|Stuart Littlefair|9a|Rainshadow|||2015|
+|Malcom Smith|9a|Hunger||Scotland's first 9a|2010|
+|Will Smith|9a|Era Vella|||2016|
+|Pete Dawson|9a|Rainshadow|||2018|
+|Buster Martin|9a|Rainshadow|||2018|
+|Neil Carson|9a|Big Bang|||1996|
 |Alex Waterhouse|9a|The Fly|||2019|
 |Dave Macleod|8c+/9a (x)|Fight the Feeling||||
 |James Pearson|8c+/9a|Escalatamàsters||||
