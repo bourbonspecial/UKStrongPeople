@@ -25,7 +25,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Alex Waterhouse|9a|The Fly|||2019|
 |Dave Macleod|8c+/9a (x)|Fight the Feeling||||
 |James Pearson|8c+/9a|Escalatamàsters||||
-|John Dunne|8c+/9a (x)|Total Eclipse||Originally given 8c+ but unrepeated and [reckoned to be 8c+/9a by Ondra](https://www.ukclimbing.com/news/2011/06/ondra_speaks_on_total_eclipse-62560).||
+|John Dunne|8c+/9a (x)|Total Eclipse||'tentatively graded 9a' by John ([src](https://ukbouldering.com/board/index.php/topic,26017.msg583467.html#msg583467)) but [reckoned to be 8c+/9a by Ondra](https://www.ukclimbing.com/news/2011/06/ondra_speaks_on_total_eclipse-62560).||
 |Steve Dunning|8c+/9a|Hubble||||
 |Ken Palmer|8c+|Brian||||
 |Luke Dawson|8c+|Blomu R3, Brian||||
@@ -57,6 +57,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Neil Mawson|8c/+|Raining Bats and Dogs||||
 |Richard Waterton|8c/+|Raining Bats and Dogs||||
 |Adam Jeeworth|8c/+|Raining Bats and Dogs||||
+|James Turnbull|8c/+|Raining Bats and Dogs|||2018|
 |Gordon Lennox|8c|Dracula True Finish||||
 |Ed Hamer|8c|Tiger Cat||||
 |Paul Reeve|8c|Cry Freedom||||
@@ -80,7 +81,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ally Smith|8c (x)|The Pirate||||
 |Dave Redpath|8c|Devastation Generation||||
 |Nic Duboust|8c|Bat Route||||
-|James Turnbull|8c|Bat Route||||
 |Cailean Harker|8c|The Joker||||
 |Mark 'Zippy' Pretty|8c|Make it Funky|||1993|
 |Rupert Davies|8c|Make it Funky||||
