@@ -54,10 +54,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tom Newberry|8c+|Spicy Noodle||||
 |Paul Smitton|8c+|Kaa'bah||Second ascent.||
 |Josh Ibbertson|8c+|?||Aged 14.||
-|Neil Mawson|8c/+|Raining Bats and Dogs||||
-|Richard Waterton|8c/+|Raining Bats and Dogs||||
-|Adam Jeeworth|8c/+|Raining Bats and Dogs||||
-|James Turnbull|8c/+|Raining Bats and Dogs|||2018|
+|Neil Mawson|8c|Raining Bats and Dogs||||
+|Richard Waterton|8c|Raining Bats and Dogs||||
+|Adam Jeeworth|8c|Raining Bats and Dogs||||
+|James Turnbull|8c|Bat Route, Epic Adventures, Raining Bats and Dogs|||2016, 2017, 2018|
 |Gordon Lennox|8c|Dracula True Finish||||
 |Ed Hamer|8c|Tiger Cat||||
 |Paul Reeve|8c|Cry Freedom||||
