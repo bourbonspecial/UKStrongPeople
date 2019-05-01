@@ -46,11 +46,12 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Pete Robins|8B+|Silk Cut||||
 |Tim Palmer|8B+|Mandala SDS||||
 |Chris Davies|8B+|Power of Goodbye||||
+|Matthew Wright|8B+|Belly of the Beast|||2019|
+|Euan MacFadyen|8B/+|King of Limbs, Golden Shadow||||
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Hamish Potokar|8B|The Ace, Sanction, Pressure||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
 |Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
-|Euan MacFadyen|8B/+|King of Limbs, Golden Shadow||||
 |Ash Wolsey-Heard|8B|Fat Lip, Voyager||||
 |Sam Prior|8B|Keen Roof, Voyager||||
 |Haydn Jones|8B|Keen Roof, Fat Lip||||
@@ -63,7 +64,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Liam Desroy|8B|Vecchio Leone, The Riverbed||||
 |Andy Banks|8B|Vice President, Flor de Loto||||
 |Ben West|8B|Steppenwolf, Mooiste Meisie|||2015|
-|Matthew Wright|8B|Serenity, Keen Roof|||2019|
 |Ollie Torr|8B|Fat Lip||||
 |Andy Burgess|8B|Keen Roof||||
 |Pete Dawson|8B|Keen Roof||||
