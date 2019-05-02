@@ -24,6 +24,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
 |Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
 |Elliot Stephens|8B+|New Baseline, Golden Shadow||||
+|Orrin Coley|8B+|Ladybird Orgy (x), Limit Breaker (x)||||
 |James Noble|8B+|Bordello SDS||||
 |Max Milne|8B+|Lord Faquhar (x)||||
 |Ben Moon|8B+|Voyager Sit||||
@@ -32,7 +33,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ethan Walker|8B+|Belly of the Beast||||
 |Dave Barrans|8B+|Gecko Assiss||||
 |Nigel Callender|8B+|Monk Life||||
-|Orrin Coley|8B+|Ladybird Orgy (x)||||
 |Mike Hart|8B+|Pilgrimage||||
 |Tom Newman|8B+|Serendipity||||
 |Steve McClure|8B|Fat Lip, Close of Business||||
