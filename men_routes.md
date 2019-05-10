@@ -54,10 +54,12 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tom Newberry|8c+|Spicy Noodle||||
 |Paul Smitton|8c+|Kaa'bah||Second ascent.||
 |Josh Ibbertson|8c+|?||Aged 14.||
+|James Turnbull|8c|Bat Route, Epic Adventures, Raining Bats and Dogs|||2016, 2017, 2018|
+|Bob Hickish|8c|Endeavor, Mecca Ext, True North||||
+|Matt Cooke|8c|Cry Freedom, Bat Route|||2019|
 |Neil Mawson|8c|Raining Bats and Dogs||||
 |Richard Waterton|8c|Raining Bats and Dogs||||
 |Adam Jeeworth|8c|Raining Bats and Dogs||||
-|James Turnbull|8c|Bat Route, Epic Adventures, Raining Bats and Dogs|||2016, 2017, 2018|
 |Gordon Lennox|8c|Dracula True Finish||||
 |Ed Hamer|8c|Tiger Cat||||
 |Paul Reeve|8c|Cry Freedom||||
@@ -70,7 +72,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Matt Pickles|8c|True North||||
 |Will Kelsall|8c|Bat Route||||
 |John Maskell|8c|Fisheye||||
-|Bob Hickish|8c|Endeavor, Mecca Ext, True North||||
 |Robin Sutton|8c|True North||||
 |Adam Harrison|8c|Bat Route||||
 |Adam Jeffs|8c|Cry of freedom||||
@@ -106,7 +107,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ed Mowbray|8c|Mecca Extension|||2018|
 |Ollie Torr|8c|Mecca Extension|||2018|
 |Matthew Wright|8c|Make it Funky|||2019|
-|Matt Cooke|8c|Cry Freedom|||2019|
 |Alexis Perry|8c|The Death Star|?|The line is eliminate and the grade depends quite a bit on the holds and sequence used.||
 |Ian Cooper|8c|The Death Star||Clarified with the FA and sequence used was the same.||
 |Mark Edwards|8c|Nuts Are Not the Only Fruit (x)|?|Originally given 8b+, Mark has [subsequently stated](https://www.8a.nu/forum/editorial/8b+-in-1991-possibly-8c+-9a-2018) it may be 8c+/9a due to grade inflation. It has been debolted since the first ascent and thus hasn't been repeated and is unlikely to see a repeat.||
