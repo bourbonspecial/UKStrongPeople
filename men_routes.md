@@ -27,24 +27,24 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |James Pearson|8c+/9a|Escalatamàsters||||
 |John Dunne|8c+/9a (x)|Total Eclipse||'tentatively graded 9a' by John ([src](https://ukbouldering.com/board/index.php/topic,26017.msg583467.html#msg583467)) but [reckoned to be 8c+/9a by Ondra](https://www.ukclimbing.com/news/2011/06/ondra_speaks_on_total_eclipse-62560).||
 |Steve Dunning|8c+/9a|Hubble||||
-|Ken Palmer|8c+|Brian||||
+|Pete Robins|8c+|Sea of Tranquility, Diamond Dogs, Dark Energy||Climbed 8c+ every year from 2009 to 2014.||
+|Jerry Moffatt|8c+|Liquid Ambar, Evolution||||
 |Luke Dawson|8c+|Blomu R3, Brian||||
+|Ted Kingsnorth|8c+|Kaa’bah, Just Do It||||
+|Ken Palmer|8c+|Brian||||
 |Stew Watson|8c+|One Night Stand||||
 |Gaz Parry|8c+|Supersonico||||
 |Tim Palmer|8c+|Progress||||
 |Chris Savage|8c+|Progress||||
-|Pete Robins|8c+|Sea of Tranquility, Diamond Dogs, Dark Energy||Climbed 8c+ every year from 2009 to 2014.||
 |Neil Dyer|8c+|Megalopa||||
 |Oli Grounsell|8c+| Megalupa||||
 |Pete Whittaker|8c+|Kaa’bah||||
-|Ted Kingsnorth|8c+|Kaa’bah, Just Do It||||
 |Ethan Walker|8c+|Kaa’bah||||
 |Ellis Butler-Barker|8c+|Brian||||
 |Wiz Fineron|8c+|Mr Hyde||||
 |Alan Cassidy|8c+|Metalcore||||
 |Ben Davison|8c+|Eye of Odin||||
 |Jon Freeman|8c+|Progress||||
-|Jerry Moffatt|8c+|Liquid Ambar, Evolution||||
 |Haydn Jones|8c+|Kaa’bah||||
 |Neil Gresham|8c+|Sabotage||||
 |Jim Pope|8c+|Mr Hyde||||
@@ -64,7 +64,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ed Hamer|8c|Tiger Cat||||
 |Paul Reeve|8c|Cry Freedom||||
 |Robbie Phillips|8c|Especio Tempo||||
-|Tom Randall|8c|Cobra Crack, Century Crack||Also done Pura Pura, an 8c+ link that strts with a boulder problem.||
 |Ben Bransby|8c|The Beast||||
 |Jon Clark|8c|Mecca Ext||||
 |Matt Donnelly|8c|Mecca Ext||||
