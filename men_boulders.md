@@ -23,7 +23,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ben Freeman|8B+|Monk Life, Dandelion Mind||||
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
 |Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
-|Elliot Stephens|8B+|New Baseline, Golden Shadow||||
+|Elliot Stephens|8B+|New Baseline||||
 |Orrin Coley|8B+|Ladybird Orgy (x), Limit Breaker (x)||||
 |James Noble|8B+|Bordello SDS||||
 |Max Milne|8B+|Lord Faquhar (x)||||
@@ -57,7 +57,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Haydn Jones|8B|Keen Roof, Fat Lip||||
 |Jerry Moffat|8B|The Ace, Voyager||||
 |Billy Ridal|8B|The Riverbed, The Vice||||
-|Alex Gorham|8B|Mooiste Maise, Riverbed||||
+|Alex Gorham|8B|Mooiste Meisie, Riverbed||||
 |Mark Katz|8B|High Fidelity, Rhythm||||
 |Ryan Pasquill|8B|Cypher, The Ace||||
 |Wiz Fineron|8B|The Vice, Riverbed||||
@@ -70,7 +70,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Luke Dawson|8B|Keen Roof||||
 |Tom Newberry|8B|Keen Roof||||
 |Morgan Preece|8B|The Riverbed||||
-|Dan Knight|8B|Mooiste Maise||||
+|Dan Knight|8B|Mooiste Meisie||||
 |Jordan Buys|8B|High Fidelity||||
 |James Thornton|8B|The Ace||||
 |Keith Bradbury|8B|Amagamma||||
@@ -105,5 +105,5 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jamie Cassidy|8B|Directors Cut||||
 |Ellis Butler-Barker|8B|Occam's Razor||||
 |Will Atkinson|8B|One Step Beyond (x)||||
-|Mark Mcquade||Sanction?||||
-|Rob Sutton|8B||?|Something at dumby?||
+|Stuart Littlefair|8B|Jean Claude Van Lamb|||2019|
+|James Garden|8B|Jean Claude Van Lamb|||2019|
