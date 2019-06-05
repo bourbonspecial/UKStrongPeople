@@ -23,7 +23,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ben Freeman|8B+|Monk Life, Dandelion Mind||||
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
 |Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
-|Elliot Stephens|8B+|New Baseline||||
+|Eliot Stephens|8B+|New Baseline||||
 |Orrin Coley|8B+|Ladybird Orgy (x), Limit Breaker (x)||||
 |James Noble|8B+|Bordello SDS||||
 |Max Milne|8B+|Lord Faquhar (x)||||
@@ -47,7 +47,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tim Palmer|8B+|Mandala SDS||||
 |Chris Davies|8B+|Power of Goodbye||||
 |Matthew Wright|8B+|Belly of the Beast|||2019|
-|Euan MacFadyen|8B/+|King of Limbs, Golden Shadow||||
+|Euan MacFadyen|8B/+|King of Limbs||||
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Hamish Potokar|8B|The Ace, Sanction, Pressure||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
@@ -107,3 +107,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Will Atkinson|8B|One Step Beyond (x)||||
 |Stuart Littlefair|8B|Jean Claude Van Lamb|||2019|
 |James Garden|8B|Jean Claude Van Lamb|||2019|
+|Pete Wilkinson|8B|Diluvian|||2019|
