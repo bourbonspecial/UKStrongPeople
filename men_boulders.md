@@ -4,10 +4,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
+|James Squire|8C|The World is Yours (x), Spray of Light||||
 |Dave Macleod|8C|Practice of the Wild||||
 |Will Bosi|8C|Practice of the Wild|||2018|
 |Ned Feehally|8C|The Big Island||||
-|James Squire|8C|The World is Yours (x), Spray of Light||||
 |Mike Adams|8C|Serenata||||
 |Tyler Landman|8C|Practice of the Wild||||
 |Toby Saxton|8C|The Finnish Line||||
