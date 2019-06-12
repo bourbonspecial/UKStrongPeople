@@ -31,13 +31,13 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jerry Moffatt|8c+|Liquid Ambar, Evolution||||
 |Luke Dawson|8c+|Blomu R3, Brian||||
 |Ted Kingsnorth|8c+|Kaa’bah, Just Do It||||
+|Oli Grounsell|8c+| Megalupa, Radar Ez||||
 |Ken Palmer|8c+|Brian||||
 |Stew Watson|8c+|One Night Stand||||
 |Gaz Parry|8c+|Supersonico||||
 |Tim Palmer|8c+|Progress||||
 |Chris Savage|8c+|Progress||||
 |Neil Dyer|8c+|Megalopa||||
-|Oli Grounsell|8c+| Megalupa||||
 |Pete Whittaker|8c+|Kaa’bah||||
 |Ethan Walker|8c+|Kaa’bah||||
 |Ellis Butler-Barker|8c+|Brian||||
