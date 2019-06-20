@@ -4,25 +4,25 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
+|Toby Saxton|8C|The Finnish Line, Monkey Wedding, Arzak||||
 |James Squire|8C|The World is Yours (x), Spray of Light||||
+|Mike Adams|8C|Serenata, Serenataon|||Serenata and Serenataon are variations of a similar problem.|
 |Dave Macleod|8C|Practice of the Wild||||
 |Will Bosi|8C|Practice of the Wild|||2018|
-|Ned Feehally|8C|The Big Island||||
-|Mike Adams|8C|Serenata||||
+|Ned Feehally|8C|The Big Island|||Flashed Trust Issues, 8B+.|
 |Tyler Landman|8C|Practice of the Wild||||
-|Toby Saxton|8C|The Finnish Line||||
 |Dawid Skoczylas|8C|Serenata||||
 |John Gaskins|8C|Walk Away SDS||||
-|Aidan Roberts|8C|Monkey Wedding||||
+|Aidan Roberts|8C|Monkey Wedding|||Flashed Master Key, 8B.|
 |Tim Clifford|8B+/C|The Singularity||||
-|Micky Paige|8B+|Big Paw, Monk Life, Kheops Assiss, Black Eagle||||
+|Micky Paige|8B+|Big Paw, Monk Life, Kheops Assiss, Black Eagle, From the Dirt Grows the Flowers (Left)||||
 |Dan Turner|8B+|Voyager Sit, Bewilderness, Monk Life||||
 |Malcom Smith|8B+|Pilgrimage, Leviathan (x), Monk Life||||
+|Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
 |Dan Varian|8B+|The Rail (x), Bewilderness||||
 |Dave Mason|8B+|Mortal Immortal, Bewilderness||||
 |Ben Freeman|8B+|Monk Life, Dandelion Mind||||
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
-|Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
 |Eliot Stephens|8B+|New Baseline||||
 |Orrin Coley|8B+|Ladybird Orgy (x), Limit Breaker (x)||||
 |James Noble|8B+|Bordello SDS||||
@@ -36,7 +36,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Mike Hart|8B+|Pilgrimage||||
 |Tom Newman|8B+|Serendipity||||
 |Steve McClure|8B|Fat Lip, Close of Business||||
-|Nathan Phillips|8B+|Mystic Stylez||||
+|Nathan Phillips|8B+|Mystic Stylez|||Flashed Ropes of Maui, 8B.|
 |Johnny Kydd|8B+|Spaceship||||
 |Tom Peckitt|8B+|Amandala||||
 |Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
