@@ -6,10 +6,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |------|-------|-------|------|-----|----|
 |Toby Saxton|8C|The Finnish Line, Monkey Wedding, Arzak||||
 |James Squire|8C|The World is Yours (x), Spray of Light||||
+|Ned Feehally|8C|The Big Island, Serenata|||Flashed Trust Issues, 8B+.|
 |Mike Adams|8C|Serenata, Serenataon|||Serenata and Serenataon are variations of a similar problem.|
 |Dave Macleod|8C|Practice of the Wild||||
 |Will Bosi|8C|Practice of the Wild|||2018|
-|Ned Feehally|8C|The Big Island|||Flashed Trust Issues, 8B+.|
 |Tyler Landman|8C|Practice of the Wild||||
 |Dawid Skoczylas|8C|Serenata||||
 |John Gaskins|8C|Walk Away SDS||||
@@ -23,9 +23,9 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dave Mason|8B+|Mortal Immortal, Bewilderness||||
 |Ben Freeman|8B+|Monk Life, Dandelion Mind||||
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
-|Eliot Stephens|8B+|New Baseline||||
 |Orrin Coley|8B+|Ladybird Orgy (x), Limit Breaker (x)||||
-|James Noble|8B+|Bordello SDS||||
+|James Noble|8B+|Bordello SDS, Jour de Chasse||||
+|Eliot Stephens|8B+|New Baseline||||
 |Max Milne|8B+|Lord Faquhar (x)||||
 |Ben Moon|8B+|Voyager Sit||||
 |Simon Newstead|8B+|The Island||||
@@ -35,7 +35,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Nigel Callender|8B+|Monk Life||||
 |Mike Hart|8B+|Pilgrimage||||
 |Tom Newman|8B+|Serendipity||||
-|Steve McClure|8B|Fat Lip, Close of Business||||
 |Nathan Phillips|8B+|Mystic Stylez|||Flashed Ropes of Maui, 8B.|
 |Johnny Kydd|8B+|Spaceship||||
 |Tom Peckitt|8B+|Amandala||||
@@ -52,6 +51,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Hamish Potokar|8B|The Ace, Sanction, Pressure||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
 |Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
+|Steve McClure|8B|Fat Lip, Close of Business|||Climbed Hubble which is said to have an 8B/+ boulder problem cruxdaw
 |Ash Wolsey-Heard|8B|Fat Lip, Voyager||||
 |Sam Prior|8B|Keen Roof, Voyager||||
 |Haydn Jones|8B|Keen Roof, Fat Lip||||
