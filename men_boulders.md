@@ -46,6 +46,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tim Palmer|8B+|Mandala SDS||||
 |Chris Davies|8B+|Power of Goodbye||||
 |Matthew Wright|8B+|Belly of the Beast|||2019|
+|Sam Prior|8B+|Sapceship|||2019|
 |Euan MacFadyen|8B/+|King of Limbs||||
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Hamish Potokar|8B|The Ace, Sanction, Pressure||||
