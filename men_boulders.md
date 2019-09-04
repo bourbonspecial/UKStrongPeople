@@ -54,7 +54,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
 |Steve McClure|8B|Fat Lip, Close of Business|||Climbed Hubble which is said to have an 8B/+ boulder problem cruxdaw
 |Ash Wolsey-Heard|8B|Fat Lip, Voyager||||
-|Sam Prior|8B|Keen Roof, Voyager||||
 |Haydn Jones|8B|Keen Roof, Fat Lip||||
 |Jerry Moffat|8B|The Ace, Voyager||||
 |Billy Ridal|8B|The Riverbed, The Vice||||
