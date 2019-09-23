@@ -50,9 +50,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jim Pope|8c+|Mr Hyde||||
 |Tim Emmett|8c+|Superman||||
 |Nic Sellars|8c+|Evolution||||
-|John Welford|8c+|The Bastard||Originally given 8c but upgraded to 8c+.||
+|John Welford|8c+|The Bastard||Originally given 8c but upgraded to 8c+ by repeat ascentionist.||
 |Tom Newberry|8c+|Spicy Noodle||||
 |Paul Smitton|8c+|Kaa'bah||Second ascent.||
+|Matthew Wright|8c+|Evolution|||2019|
 |Josh Ibbertson|8c+|?||Aged 14.||
 |James Turnbull|8c|Bat Route, Epic Adventures, Raining Bats and Dogs|||2016, 2017, 2018|
 |Bob Hickish|8c|Endeavor, Mecca Ext, True North||||
@@ -100,13 +101,14 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ian MacDoanld|8c|T1 Full Equip||||
 |Charlie Woodburn|8c|Bat Route||||
 |Ben Freeman|8c|Aladdin|||2018|
-|Jerome Mowat|8c|Cry Freedom|||2018|
+|Jerome Mowat|8c|Cry Freedom, Bat Route|||2018|
 |Drew Haigh|8c|Cry Freedom||||
 |Bruno Marks|8c|Unjustified||||
 |Ed Mowbray|8c|Mecca Extension|||2018|
 |Ollie Torr|8c|Mecca Extension|||2018|
-|Matthew Wright|8c|Make it Funky|||2019|
 |Sam Williams|8c|Bat Route|||2019|
+|Alex Norton|8c|Make it Funky|||2019|
+|Jim Hulbert|8c|Bat Route|||2019|
 |Alexis Perry|8c|The Death Star|?|The line is eliminate and the grade depends quite a bit on the holds and sequence used.||
 |Ian Cooper|8c|The Death Star||Clarified with the FA and sequence used was the same.||
 |Mark Edwards|8c|Nuts Are Not the Only Fruit (x)|?|Originally given 8b+, Mark has [subsequently stated](https://www.8a.nu/forum/editorial/8b+-in-1991-possibly-8c+-9a-2018) it may be 8c+/9a due to grade inflation. It has been debolted since the first ascent and thus hasn't been repeated and is unlikely to see a repeat.||
