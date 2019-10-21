@@ -4,8 +4,8 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
-|Shauna Coxsey|8B+|New Base Line||||
-|Mina Leslie-Wujastik|8B|Pursuit of Happiness||||
+|Shauna Coxsey|8B+|New Base Line|||2014|
+|Mina Leslie-Wujastik|8B|Pursuit of Happiness|||2017|
 |Frances Bensely|8B|Fat Lip, Keen Roof|||2018|
 |Claire Murphy|8A+|Chbalanke, Sarah SS||||
 |Suzan Dudink|8A+|Tea with Elmarie||||
@@ -13,17 +13,17 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Nia Fletcher|8A+|Fat Lady||||
 |Becky Wilby|8A+|Armed Response||||
 |Molly Thompson-Smith|8A|Dead Can't Dance, Tsunami||||
-|Jemma Powell|8A|Stone Temple Pilots||||
+|Emma Flaherty|8A|Backstreet Mime Artist, Röyksopp||||
+|Jemma Powell|8A|Stoned Temple Pilots||||
 |Leah Crane|8A|Tourniquet||||
 |Holly Rees|8A|Ben's Roof Extension||No knees.||
-|Emma Flaherty|8A|Backstreet Mime Artist, Röyksopp||||
 |Vickie Fringe|8A|Backstreet Mime Artist|||2019|
 |Ellie Bacmeister|8A|White Light||||
 |Tara Hayes|8A|Nutsa||||
 |Gill Peet|8A|Moreau's Island||||
-|Steph Holland|8A|Witness th Churnetness||||
+|Steph Holland|8A|Witness the Churnetness||||
 |Rhoslyn Frugniet|8A|Teamwork|||2019|
-|Rachel Carr|8A|God Save My Finger|||2019|
+|Rachel Carr|8A|God Save My Finger, Pendragon|||2019|
 |Jo Allen|8A|Backstreet Mime Artist||||
 |Michaela Tracy|7C+/8A|The Dark Room||||
 |Katy Whittaker|7C+|Shirley's Shining Temple (flash), The Hatchling||||
