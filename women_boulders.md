@@ -35,6 +35,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Naomis Cokell|7C+|Megalithe||||
 |Helen Dudley|7C+| Iceberg (aller-detour)||||
 |Imogen Horrcks|7C+|The Hatchling||||
+|Hazel Findlay|7C+|Corridors of Power|||2019|
 |Charlie Torrance|7C|Rock Atrocity, Fish Pie||||
 |Rae Cowie|7C|Powerband, Ben's Roof||||
 |Alison Monks|7C|Sprung, Coronary Bypass||||
