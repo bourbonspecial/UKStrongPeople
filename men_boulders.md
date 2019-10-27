@@ -25,6 +25,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
 |Orrin Coley|8B+|Ladybird Orgy (x), Limit Breaker (x)||||
 |James Noble|8B+|Bordello SDS, Jour de Chasse||||
+|Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
 |Eliot Stephens|8B+|New Baseline||||
 |Max Milne|8B+|Lord Faquhar (x)||||
 |Ben Moon|8B+|Voyager Sit||||
@@ -38,7 +39,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Nathan Phillips|8B+|Mystic Stylez|||Flashed Ropes of Maui, 8B.|
 |Johnny Kydd|8B+|Spaceship||||
 |Tom Peckitt|8B+|Amandala||||
-|Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
+|Matt Birch|8B+|Mandala SDS|||2008|
 |Andy Earl|8B+|Monk Life||||
 |Dave Jones|8B+|Warpath||||
 |Neil Dyer|8B+|Silk Cut||||
@@ -47,6 +48,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Chris Davies|8B+|Power of Goodbye||||
 |Matthew Wright|8B+|Belly of the Beast|||2019|
 |Sam Prior|8B+|Sapceship|||2019|
+|Billy Ridal|8B+|Never Ending Story|||2019|
 |Euan MacFadyen|8B/+|King of Limbs||||
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Hamish Potokar|8B|The Ace, Sanction, Pressure||||
@@ -56,7 +58,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ash Wolsey-Heard|8B|Fat Lip, Voyager||||
 |Haydn Jones|8B|Keen Roof, Fat Lip||||
 |Jerry Moffat|8B|The Ace, Voyager||||
-|Billy Ridal|8B|The Riverbed, The Vice||||
 |Alex Gorham|8B|Mooiste Meisie, Riverbed||||
 |Mark Katz|8B|High Fidelity, Rhythm||||
 |Ryan Pasquill|8B|Cypher, The Ace||||
