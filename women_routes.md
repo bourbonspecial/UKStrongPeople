@@ -30,6 +30,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Silvia Fitzpatrick|8b|Golpe de Calor|||2009|
 |Dalvinder Sodhi|8b|Stolen|||2017|
 |Tanya Meredith|8b|Austrian Oak|||2018|
+|Thea Cameron|8a+/b|Espirit Rebeld|||2019|
 |Ako Shillitoe|8a+|Supercool||||
 |Ruth Smitton|8a+|Supercool||||
 |Julie Pearson|8a+|Supercool||||
@@ -85,3 +86,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Hannah Toward|8a|La Guardia||Age 11!|2019|
 |Shauna Coxsey|8a|Watermark||||
 |Rebekah Drummond|8a|Transilvania, Shimmy Sham|||2018|
+|Nat Fenech|8a|El Rompebragas|||2019|
