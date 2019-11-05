@@ -58,6 +58,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |James Turnbull|8c|Bat Route, Epic Adventures, Raining Bats and Dogs|||2016, 2017, 2018|
 |Bob Hickish|8c|Endeavor, Mecca Ext, True North||||
 |Matt Cooke|8c|Cry Freedom, Bat Route|||2019|
+|Finn Hayward|8c|Mind Control, Fish Eye||Mind Control 3rd go. Both aged 15.|2019|
 |Neil Mawson|8c|Raining Bats and Dogs||||
 |Richard Waterton|8c|Raining Bats and Dogs||||
 |Adam Jeeworth|8c|Raining Bats and Dogs||||
