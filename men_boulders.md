@@ -109,3 +109,5 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Stuart Littlefair|8B|Jean Claude Van Lamb|||2019|
 |James Garden|8B|Jean Claude Van Lamb|||2019|
 |Pete Wilkinson|8B|Diluvian|||2019|
+|Rob Hunter|8B|Intergalactic||||
+|Ricky Bell|8B|Gentlemen's Arete||||
