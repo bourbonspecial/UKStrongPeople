@@ -65,6 +65,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Liam Desroy|8B|Vecchio Leone, The Riverbed||||
 |Andy Banks|8B|Vice President, Flor de Loto||||
 |Ben West|8B|Steppenwolf, Mooiste Meisie|||2015|
+|Danny Cattell|8B|Le Dernier Attrocity, Paper Birds Low||||
 |Ollie Torr|8B|Fat Lip||||
 |Andy Burgess|8B|Keen Roof||||
 |Pete Dawson|8B|Keen Roof||||
@@ -76,7 +77,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |James Thornton|8B|The Ace||||
 |Keith Bradbury|8B|Amagamma||||
 |Joe Wilson|8B|Bloodsport LH||||
-|Danny Cattell|8B|Le Dernier Attrocity||||
 |Sam Whittaker|8B|Le Dernier Attrocity||||
 |Ed Hamer|8B|Louis Armstrong||||
 |Dom Bridgewood|8B|Ropes of Maui||||
