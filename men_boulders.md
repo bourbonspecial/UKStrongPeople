@@ -16,6 +16,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |John Gaskins|8C|Walk Away SDS||||
 |Tim Clifford|8B+/C|The Singularity||||
 |Micky Paige|8B+|Big Paw, Monk Life, Kheops Assiss, Black Eagle, From the Dirt Grows the Flowers (Left)||||
+|Orrin Coley|8B+|Ladybird Orgy (x), Limit Breaker (x), New Base Line, Monk Life||||
 |Dan Turner|8B+|Voyager Sit, Bewilderness, Monk Life||||
 |Malcom Smith|8B+|Pilgrimage, Leviathan (x), Monk Life||||
 |Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
@@ -23,7 +24,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dave Mason|8B+|Mortal Immortal, Bewilderness||||
 |Ben Freeman|8B+|Monk Life, Dandelion Mind||||
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
-|Orrin Coley|8B+|Ladybird Orgy (x), Limit Breaker (x)||||
 |James Noble|8B+|Bordello SDS, Jour de Chasse||||
 |Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
 |Eliot Stephens|8B+|New Baseline||||
