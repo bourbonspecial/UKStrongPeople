@@ -26,7 +26,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
 |James Noble|8B+|Bordello SDS, Jour de Chasse||||
 |Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
-|Eliot Stephens|8B+|New Baseline||||
+|Eliot Stephens|8B+|New Baseline, Big Paw||||
 |Max Milne|8B+|Lord Faquhar (x)||||
 |Ben Moon|8B+|Voyager Sit||||
 |Simon Newstead|8B+|The Island||||
