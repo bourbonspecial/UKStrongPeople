@@ -14,6 +14,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Becky Wilby|8A+|Armed Response||||
 |Molly Thompson-Smith|8A|Dead Can't Dance, Tsunami||||
 |Emma Flaherty|8A|Backstreet Mime Artist, Röyksopp||||
+|Michaela Tracy|8A|Halcyon, Truth and Lies||||
 |Jemma Powell|8A|Stoned Temple Pilots||||
 |Leah Crane|8A|Tourniquet||||
 |Holly Rees|8A|Ben's Roof Extension||No knees.||
@@ -25,7 +26,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Rhoslyn Frugniet|8A|Teamwork|||2019|
 |Rachel Carr|8A|God Save My Finger, Pendragon|||2019|
 |Jo Allen|8A|Backstreet Mime Artist||||
-|Michaela Tracy|7C+/8A|The Dark Room||||
 |Katy Whittaker|7C+|Shirley's Shining Temple (flash), The Hatchling||||
 |Charlotte Garden|7C+|Caroline, The Departed||||
 |Katie Maxwell|7C+|Caroline, Working 9-5 Stand||||
