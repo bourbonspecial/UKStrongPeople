@@ -14,7 +14,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tyler Landman|8C|Practice of the Wild||||
 |Dawid Skoczylas|8C|Serenata||||
 |John Gaskins|8C|Walk Away SDS||||
-|Tim Clifford|8B+/C|The Singularity||||
+|Tim Clifford|8C|The Singularity|||Second ascenionist suggested 8B+/C|
 |Micky Paige|8B+|Big Paw, Monk Life, Kheops Assiss, Black Eagle, From the Dirt Grows the Flowers (Left)||||
 |Orrin Coley|8B+|Ladybird Orgy (x), Limit Breaker (x), New Base Line, Monk Life, Voyager Sit||||
 |Dan Turner|8B+|Voyager Sit, Bewilderness, Monk Life||||
@@ -49,7 +49,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Matthew Wright|8B+|Belly of the Beast|||2019|
 |Sam Prior|8B+|Sapceship|||2019|
 |Billy Ridal|8B+|Never Ending Story|||2019|
-|Euan MacFadyen|8B/+|King of Limbs||||
+|Euan MacFadyen|8B|King of Limbs||||
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Hamish Potokar|8B|The Ace, Sanction, Pressure||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
