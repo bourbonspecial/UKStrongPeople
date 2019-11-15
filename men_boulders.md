@@ -22,7 +22,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
 |Dan Varian|8B+|The Rail (x), Bewilderness||||
 |Dave Mason|8B+|Mortal Immortal, Bewilderness||||
-|Ben Freeman|8B+|Monk Life, Dandelion Mind||||
+|Ben Freeman|8B+|Monk Life||||
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
 |James Noble|8B+|Bordello SDS, Jour de Chasse||||
 |Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
@@ -45,10 +45,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Neil Dyer|8B+|Silk Cut||||
 |Pete Robins|8B+|Silk Cut||||
 |Tim Palmer|8B+|Mandala SDS||||
-|Chris Davies|8B+|Power of Goodbye||||
 |Matthew Wright|8B+|Belly of the Beast|||2019|
 |Sam Prior|8B+|Sapceship|||2019|
 |Billy Ridal|8B+|Never Ending Story|||2019|
+|Chris Davies|8B|Power of Goodbye||||
 |Euan MacFadyen|8B|King of Limbs||||
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Hamish Potokar|8B|The Ace, Sanction, Pressure||||
