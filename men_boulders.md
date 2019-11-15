@@ -48,13 +48,12 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Matthew Wright|8B+|Belly of the Beast|||2019|
 |Sam Prior|8B+|Sapceship|||2019|
 |Billy Ridal|8B+|Never Ending Story|||2019|
-|Chris Davies|8B|Power of Goodbye||||
-|Euan MacFadyen|8B|King of Limbs||||
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Hamish Potokar|8B|The Ace, Sanction, Pressure||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
 |Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
 |Steve McClure|8B|Fat Lip, Close of Business|||Climbed Hubble which is said to have an 8B/+ boulder problem cruxdaw
+|Chris Davies|8B|Power of Goodbye, My Own Private Idaho||||
 |Ash Wolsey-Heard|8B|Fat Lip, Voyager||||
 |Haydn Jones|8B|Keen Roof, Fat Lip||||
 |Jerry Moffat|8B|The Ace, Voyager||||
@@ -66,6 +65,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Andy Banks|8B|Vice President, Flor de Loto||||
 |Ben West|8B|Steppenwolf, Mooiste Meisie|||2015|
 |Danny Cattell|8B|Le Dernier Attrocity, Paper Birds Low||||
+|Euan MacFadyen|8B|King of Limbs||||
 |Ollie Torr|8B|Fat Lip||||
 |Andy Burgess|8B|Keen Roof||||
 |Pete Dawson|8B|Keen Roof||||
