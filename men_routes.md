@@ -8,6 +8,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |------|-------|-------|------|-----|----|
 |Steve Mcclure|9b (x)|Rainman||First 9b by a british man and first 9b in the UK. Many other notable ascents up to 9a+.|2017|
 |John Gaskins|9a+ (x)|Violent New Breed||||
+|Buster Martin|9a+|First Ley|||2019|
 |Tom Bolger|9a/+|Cuidad de dios|||2011|
 |Stevie Haston|9a|Descente Lolitta, Hugh|||2009, 2010|
 |Alex Barrows|9a|Era Vella, Bad Girl's Club|||2015, |
@@ -20,7 +21,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Malcom Smith|9a|Hunger||Scotland's first 9a|2010|
 |Will Smith|9a|Era Vella|||2016|
 |Pete Dawson|9a|Rainshadow|||2018|
-|Buster Martin|9a|Rainshadow|||2018|
 |Neil Carson|9a|Big Bang|||1996|
 |Alex Waterhouse|9a|The Fly|||2019|
 |Dave Macleod|9a|Hunger||||
