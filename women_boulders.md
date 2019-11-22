@@ -39,6 +39,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Charlie Torrance|7C|Rock Atrocity, Fish Pie||||
 |Rae Cowie|7C|Powerband, Ben's Roof||||
 |Alison Monks|7C|Sprung, Coronary Bypass||||
+|Rebecca Stephens|7C|Ash Tree Wall, The Noisy Cricket||||
 |Charlotte Telfer|7C|Jess's Roof ||||
 |Michelle Wardle|7C|Rock Atrocity||||
 |Diane Merrick|7C|Paint it Black||||
@@ -57,3 +58,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Kate Ennis|7C|Oreo||||
 |Evelyn Dearlove|7C|Enchantress||||
 |Dalvinder Sodhi|7C|Brad Pit||First female ascent||
+|Emily Fell|7C|Peckitt's Traverse||||
