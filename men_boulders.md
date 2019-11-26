@@ -14,6 +14,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tyler Landman|8C|Practice of the Wild||||
 |Dawid Skoczylas|8C|Serenata||||
 |John Gaskins|8C|Walk Away SDS||||
+|Eliot Stephens|8C|Arzak||||
 |Tim Clifford|8C|The Singularity|||Second ascenionist suggested 8B+/C|
 |Micky Paige|8B+|Big Paw, Monk Life, Kheops Assiss, Black Eagle, From the Dirt Grows the Flowers (Left)||||
 |Orrin Coley|8B+|Ladybird Orgy (x), Limit Breaker (x), New Base Line, Monk Life, Voyager Sit||||
@@ -26,7 +27,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
 |James Noble|8B+|Bordello SDS, Jour de Chasse||||
 |Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
-|Eliot Stephens|8B+|New Baseline, Big Paw||||
 |Max Milne|8B+|Lord Faquhar (x)||||
 |Ben Moon|8B+|Voyager Sit||||
 |Simon Newstead|8B+|The Island||||
@@ -111,3 +111,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Pete Wilkinson|8B|Diluvian|||2019|
 |Rob Hunter|8B|Intergalactic||||
 |Ricky Bell|8B|Gentlemen's Arete||||
+|Rory Fowler|8B|WADzilla||||
