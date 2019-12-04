@@ -27,6 +27,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
 |James Noble|8B+|Bordello SDS, Jour de Chasse||||
 |Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
+|Matthew Wright|8B+|Belly of the Beast, Serendipity|||2019|
 |Max Milne|8B+|Lord Faquhar (x)||||
 |Ben Moon|8B+|Voyager Sit||||
 |Simon Newstead|8B+|The Island||||
@@ -45,7 +46,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Neil Dyer|8B+|Silk Cut||||
 |Pete Robins|8B+|Silk Cut||||
 |Tim Palmer|8B+|Mandala SDS||||
-|Matthew Wright|8B+|Belly of the Beast|||2019|
 |Sam Prior|8B+|Sapceship|||2019|
 |Billy Ridal|8B+|Never Ending Story|||2019|
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
