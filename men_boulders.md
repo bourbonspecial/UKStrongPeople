@@ -112,3 +112,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Rob Hunter|8B|Intergalactic||||
 |Ricky Bell|8B|Gentlemen's Arete||||
 |Rory Fowler|8B|WADzilla||||
+|Buster Martin|8B|The Vice||||
