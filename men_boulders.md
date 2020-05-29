@@ -21,7 +21,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dan Turner|8B+|Voyager Sit, Bewilderness, Monk Life||||
 |Malcom Smith|8B+|Pilgrimage, Leviathan (x), Monk Life||||
 |Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
-|Dan Varian|8B+|The Rail (x), Bewilderness||||
+|Dan Varian|8B+|The Rail (x), Bewilderness, Bombadil (x)||||
 |Dave Mason|8B+|Mortal Immortal, Bewilderness||||
 |Ben Freeman|8B+|Monk Life||||
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
@@ -65,6 +65,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Andy Banks|8B|Vice President, Flor de Loto||||
 |Ben West|8B|Steppenwolf, Mooiste Meisie|||2015|
 |Danny Cattell|8B|Le Dernier Attrocity, Paper Birds Low||||
+|Alex Waterhouse|8B|Merlin's Beard (x), The Kraken||||
 |Euan MacFadyen|8B|King of Limbs||||
 |Ollie Torr|8B|Fat Lip||||
 |Andy Burgess|8B|Keen Roof||||
@@ -92,7 +93,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Alex Moore|8B|Isla d'encanta||||
 |Liam Fyffe|8B|Ropes of Maui||||
 |Will Buck|8B|Rhythm||||
-|Alex Waterhouse|8B|Merlin's Beard (x)||||
 |Dave Cowl|8B|Reel Keelhaul||||
 |Luke FLetcher|8B|Ropes of Maui||||
 |Phil Rose|8B|Keen Roof||||

@@ -25,6 +25,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dave Macleod|9a|Hunger||||
 |Steve Dunning|9a|Hubble||||
 |John Gaskins|9a|Hubble||||
+|Micky Paige|9a|The Illusionist|||2019|
 |Hamish MacArthur|8c+/9a|A Muerte, Jungle Speed|||2020|
 |James Pearson|8c+/9a|Escalatamàsters||||
 |John Dunne|8c+/9a (x)|Total Eclipse||'tentatively graded 9a' by John ([src](https://ukbouldering.com/board/index.php/topic,26017.msg583467.html#msg583467)) but [reckoned to be 8c+/9a by Ondra](https://www.ukclimbing.com/news/2011/06/ondra_speaks_on_total_eclipse-62560).||
@@ -33,6 +34,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Luke Dawson|8c+|Blomu R3, Brian||||
 |Ted Kingsnorth|8c+|Kaa’bah, Just Do It||||
 |Oli Grounsell|8c+| Megalupa, Radar Ez||||
+|Matthew Wright|8c+|Evolution, Kaa’bah|||2019, 2020|
 |Ken Palmer|8c+|Brian||||
 |Stew Watson|8c+|One Night Stand||||
 |Gaz Parry|8c+|Supersonico||||
@@ -54,7 +56,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |John Welford|8c+|The Bastard||Originally given 8c but upgraded to 8c+ by repeat ascentionist.||
 |Tom Newberry|8c+|Spicy Noodle||||
 |Paul Smitton|8c+|Kaa'bah||Second ascent.||
-|Matthew Wright|8c+|Evolution|||2019|
 |Josh Ibbertson|8c+|?||Aged 14.||
 |James Turnbull|8c|Bat Route, Epic Adventures, Raining Bats and Dogs|||2016, 2017, 2018|
 |Bob Hickish|8c|Endeavor, Mecca Ext, True North||||
