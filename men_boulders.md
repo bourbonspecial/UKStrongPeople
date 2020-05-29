@@ -23,15 +23,15 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jack Palmieri|8B+|Silk Cut, Triggertrocity-Uppercut, Pilgrimage||||
 |Dan Varian|8B+|The Rail (x), Bewilderness, Bombadil (x)||||
 |Dave Mason|8B+|Mortal Immortal, Bewilderness||||
-|Ben Freeman|8B+|Monk Life||||
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
 |James Noble|8B+|Bordello SDS, Jour de Chasse||||
 |Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
 |Matthew Wright|8B+|Belly of the Beast, Serendipity|||2019|
+|Alex Barrows|8B+|Belly of the Beast, The Wheel of Life||||
+|Ben Freeman|8B+|Monk Life||||
 |Max Milne|8B+|Lord Faquhar (x)||||
 |Ben Moon|8B+|Voyager Sit||||
 |Simon Newstead|8B+|The Island||||
-|Alex Barrows|8B+|Belly of the Beast||||
 |Ethan Walker|8B+|Belly of the Beast||||
 |Dave Barrans|8B+|Gecko Assiss||||
 |Nigel Callender|8B+|Monk Life||||
@@ -114,3 +114,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ricky Bell|8B|Gentlemen's Arete||||
 |Rory Fowler|8B|WADzilla||||
 |Buster Martin|8B|The Vice||||
+|Tom Randall|8B|The Kraken||||
