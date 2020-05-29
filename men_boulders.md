@@ -6,16 +6,16 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |------|-------|-------|------|-----|----|
 |Toby Saxton|8C|The Finnish Line, Monkey Wedding, Arzak||||
 |James Squire|8C|The World is Yours (x), Spray of Light||||
-|Ned Feehally|8C|The Big Island, Serenata|||Flashed Trust Issues, 8B+.|
-|Mike Adams|8C|Serenata, Serenataon|||Serenata and Serenataon are variations of a similar problem.|
-|Aidan Roberts|8C|Monkey Wedding, Railway (x)|||Flashed Master Key, 8B.|
+|Ned Feehally|8C|The Big Island, Serenata||Flashed Trust Issues, 8B+.||
+|Mike Adams|8C|Serenata, Serenataon||Serenata and Serenataon are variations of a similar problem.||
+|Aidan Roberts|8C|Monkey Wedding, Railway (x)||Flashed Master Key, 8B.||
 |Eliot Stephens|8C|Arzak, From the Dirt Grows the Flowers||||
 |Dave Macleod|8C|Practice of the Wild||||
 |Will Bosi|8C|Practice of the Wild|||2018|
 |Tyler Landman|8C|Practice of the Wild||||
 |Dawid Skoczylas|8C|Serenata||||
 |John Gaskins|8C|Walk Away SDS||||
-|Tim Clifford|8C|The Singularity|||Second ascenionist suggested 8B+/C|
+|Tim Clifford|8C|The Singularity||Second ascenionist suggested 8B+/C||
 |Micky Paige|8B+|Big Paw, Monk Life, Kheops Assiss, Black Eagle, From the Dirt Grows the Flowers (Left)||||
 |Orrin Coley|8B+|Ladybird Orgy (x), Limit Breaker (x), New Base Line, Monk Life, Voyager Sit||||
 |Dan Turner|8B+|Voyager Sit, Bewilderness, Monk Life||||
@@ -37,7 +37,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Nigel Callender|8B+|Monk Life||||
 |Mike Hart|8B+|Pilgrimage||||
 |Tom Newman|8B+|Serendipity||||
-|Nathan Phillips|8B+|Mystic Stylez|||Flashed Ropes of Maui, 8B.|
+|Nathan Phillips|8B+|Mystic Stylez||Flashed Ropes of Maui, 8B.||
 |Johnny Kydd|8B+|Spaceship||||
 |Tom Peckitt|8B+|Amandala||||
 |Matt Birch|8B+|Mandala SDS|||2008|
