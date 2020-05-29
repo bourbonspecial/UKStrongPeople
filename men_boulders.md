@@ -53,7 +53,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Joe Lawson|8B|The Hourglass, Amber, Delusions of Grandeur||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
 |Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
-|Steve McClure|8B|Fat Lip, Close of Business|||Climbed Hubble which is said to have an 8B/+ boulder problem cruxdaw
+|Steve McClure|8B|Fat Lip, Close of Business||Climbed Hubble which is said to have an 8B/+ boulder problem crux||
 |Chris Davies|8B|Power of Goodbye, My Own Private Idaho||||
 |Ash Wolsey-Heard|8B|Fat Lip, Voyager||||
 |Haydn Jones|8B|Keen Roof, Fat Lip||||
