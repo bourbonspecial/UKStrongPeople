@@ -48,6 +48,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tim Palmer|8B+|Mandala SDS||||
 |Sam Prior|8B+|Sapceship|||2019|
 |Billy Ridal|8B+|Never Ending Story|||2019|
+|Alex Waterhouse|8B+|New Base Line|||2019|
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Hamish Potokar|8B|The Ace, Sanction, Pressure||||
 |Joe Lawson|8B|The Hourglass, Amber, Delusions of Grandeur||||
@@ -66,7 +67,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Andy Banks|8B|Vice President, Flor de Loto||||
 |Ben West|8B|Steppenwolf, Mooiste Meisie|||2015|
 |Danny Cattell|8B|Le Dernier Attrocity, Paper Birds Low||||
-|Alex Waterhouse|8B|Merlin's Beard (x), The Kraken||||
 |Euan MacFadyen|8B|King of Limbs||||
 |Ollie Torr|8B|Fat Lip||||
 |Andy Burgess|8B|Keen Roof||||
