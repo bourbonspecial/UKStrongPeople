@@ -115,3 +115,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Rory Fowler|8B|WADzilla||||
 |Buster Martin|8B|The Vice||||
 |Tom Randall|8B|The Kraken||||
+|Greg Chapman|8B|Walk Away||||
