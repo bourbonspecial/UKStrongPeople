@@ -43,6 +43,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Mhairi Thorburn|8a+|Las Clochas de Targa||||
 |Flo Tilley|8a+|Bullet||||
 |Zoë Peetermans|8a+|La Femme Blanche||||
+|Anna Gilyeat|8a|Raindogs, Ouijaboard||||
 |Zoe Ogden|8a|Raindogs||||
 |Emily Allen|8a|Aberration||||
 |Karen Whitehouse|8a|Aberration||||
@@ -63,7 +64,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jessica Mccaskey|8a|Sufferance||||
 |Llinos Cassidy|8a|Vennerne|||2018|
 |Nicola Taylor|8a|Aberration||||
-|Anna Gilyeat|8a|Raindogs||||
 |Charlotte Telfer|8a|Le Lapin||||
 |Gwen Morgan|8a|Vennerne|||2018|
 |Sarah Black|8a|Vennerne||||
