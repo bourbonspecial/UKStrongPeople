@@ -6,16 +6,17 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |------|-------|-------|------|-----|----|
 |Emma Twyford|9a|Big Bang||First british woman to climb harder than 8c.|2019|
 |Mina Leslie-Wujastik|8c|Mecca Extension, Bat Route, Nordic Plumber, Raining Bats and Dogs|||2014|
+|Molly Thompson-Smith|8c|Fabelita, Rollito Sharma Extension, Roof Warrior|||2018|
 |Hazel Findlay|8c|Mind Control, Fish Eye||First 8c by a UK woman with Fish Eye.|2014|
 |Maddie Cope|8c|Bat Route, Mind Control|||2017|
 |Lucy Mitchell|8c|Fish Eye|||2017|
-|Molly Thompson-Smith|8c|Fabelita, Rollito Sharma Extension|||2018|
 |Rhoslyn Frugniet|8c|Death Star||First 8a+ flash with Face de Rat.|2019|
 |Katy Whittaker|8b+|Mecca|||2014|
 |Lucy Creamer|8b+|Kalea Borroka||First 8b+ by a UK woman.|2009|
 |Frances Bensley|8b+|Kalea Borroka|||2018|
 |Karin Magog|8b+|Mundo Feliz|||2017|
 |Holly Rees|8b+|Mecca|||2019|
+|Charlotte Garden|8b|Lightning, The Beer Will Taste Good|||2016|
 |Ruth Jenkins|8b|Zeke the Freak||First 8b by a UK woman. Also first 8a+ with Caviar.|1995|
 |Natalie Berry|8b|Satan X|||2012|
 |Jules Littlefair|8b|Predator|||2011|
@@ -23,8 +24,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jenny Woodward|8b|Predator|||2009|
 |Lucinda Whittaker|8b|Austrian Oak|||2011|
 |Michaela Tracy|8b|Ramadan|||2012|
-|Charlotte Garden|8b|Lightning||||
-|Naomi Buys|8b|Wicked Gravity|||2016?|
+|Naomi Buys|8b|Wicked Gravity|||2016|
 |Wendy Coles|8b|Eurofighter|||2015|
 |Leah Crane|8b|Revelations||||
 |Silvia Fitzpatrick|8b|Golpe de Calor|||2009|
@@ -44,7 +44,13 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Flo Tilley|8a+|Bullet||||
 |Zoë Peetermans|8a+|La Femme Blanche||||
 |Jennifer Wood|8a+|Develop as You Are|||2019|
+|Helen Dudley|8a+|Path of Excess Power|||2008|
+|Natalie Tanzer|8a|Salva Mea, Me Cago en el Amor, El Desafío|||2013|
+|Rachel Slater|8a|Coliseum, Bon Viatge, Latido del miedo|||2013|
 |Anna Gilyeat|8a|Raindogs, Ouijaboard||||
+|Lis Espin|8a|Just Call Me Helmet, Hang Ten|||2007|
+|Charlotte Warner|8a|Pinza time, La Cuca|||2014|
+|Rebekah Drummond|8a|Transilvania, Shimmy Sham|||2018|
 |Zoe Ogden|8a|Raindogs||||
 |Emily Allen|8a|Aberration||||
 |Karen Whitehouse|8a|Aberration||||
@@ -54,15 +60,12 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Katy Piddock|8a|Pren Nota||||
 |Gill Peet|8a|Toadal Recall||||
 |Lynne Malcolm|8a|Thai Dream||||
-|Natalie Tanzer|8a|Me Cago en el Amor||||
-|Charlotte Warner|8a|Pinza time||||
-|Rachel Slater|8a|Bon Viatge||||
 |Vicki Hau|8a|Gracias Fina||||
-|Rachel Morrison-Elliott|8a|La Perdonavidas||||
+|Rachel Morrison-Elliott|8a|La Perdonavidas|||2014|
 |Alison Martindale|8a|Mediterraneo||||
 |Fran Brown|8a|Lobos||||
 |Laura Smitton|8a|Oujiboard||||
-|Jessica Mccaskey|8a|Sufferance||||
+|Jessica Mccaskey|8a|Sufferance|||2015|
 |Llinos Cassidy|8a|Vennerne|||2018|
 |Nicola Taylor|8a|Aberration||||
 |Charlotte Telfer|8a|Le Lapin||||
@@ -80,11 +83,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Alison Cowley|8a|Johnnie Walker|||1999|
 |Anne Arran|8a|Cauchemar de Elephant||||
 |Airlie Anderson|8a|Reve de Papillon||||
-|Helen Dudley|8a|Coliseum?|?|||
 |Becca lounds|8a|Aberration|||2018|
 |Koon Morris|8a|Ching, Axiom|||2018|
 |Sarah Pashley|8a|La Tuerie d'Oriol|||2017|
 |Heather Florence|8a|Chryssalida|||2018|
 |Shauna Coxsey|8a|Watermark||||
-|Rebekah Drummond|8a|Transilvania, Shimmy Sham|||2018|
 |Nat Fenech|8a|El Rompebragas|||2019|
+|Harriet Hall|8a|The Best Off|||2012|
