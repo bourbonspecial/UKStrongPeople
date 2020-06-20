@@ -43,6 +43,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Mhairi Thorburn|8a+|Las Clochas de Targa||||
 |Flo Tilley|8a+|Bullet||||
 |Zoë Peetermans|8a+|La Femme Blanche||||
+|Jennifer Wood|8a+|Develop as You Are|||2019|
 |Anna Gilyeat|8a|Raindogs, Ouijaboard||||
 |Zoe Ogden|8a|Raindogs||||
 |Emily Allen|8a|Aberration||||
