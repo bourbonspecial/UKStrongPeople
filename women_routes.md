@@ -73,7 +73,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Charlotte Telfer|8a|Le Lapin||||
 |Gwen Morgan|8a|Vennerne|||2018|
 |Sarah Black|8a|Vennerne||||
-|Emily Phillips|8a|La Cucina Dell'Inferno||13 years old. "This is as far as I am aware the youngest GB female ascent of an 8a." - Ian Dunn|2016|
+|Emily Phillips|8a|La Cucina Dell'Inferno|||2016|
 |Sophie Whyte |8a|"8a at Los Tigres"||||
 |Tessa Silvestre Le Lyon|8a|Sombre del Viento, Margalef|||2017|
 |Hazel Dearlove|8a|Aberration||||
