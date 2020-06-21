@@ -91,3 +91,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Shauna Coxsey|8a|Watermark||||
 |Nat Fenech|8a|El Rompebragas|||2019|
 |Harriet Hall|8a|The Best Off|||2012|
+|Ferdia Earle|8a|The Invisible Girl|||2019|
