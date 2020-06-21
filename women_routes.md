@@ -47,10 +47,12 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Helen Dudley|8a+|Path of Excess Power|||2008|
 |Natalie Tanzer|8a|Salva Mea, Me Cago en el Amor, El Desafío|||2013|
 |Rachel Slater|8a|Coliseum, Bon Viatge, Latido del miedo|||2013|
+|Holly Murray|8a|The Sissy, Aberration, Complete Control|||2019|
 |Anna Gilyeat|8a|Raindogs, Ouijaboard||||
 |Lis Espin|8a|Just Call Me Helmet, Hang Ten|||2007|
 |Charlotte Warner|8a|Pinza time, La Cuca|||2014|
 |Rebekah Drummond|8a|Transilvania, Shimmy Sham|||2018|
+|Koon Morris|8a|Ching, Axiom|||2018|
 |Zoe Ogden|8a|Raindogs||||
 |Emily Allen|8a|Aberration||||
 |Karen Whitehouse|8a|Aberration||||
@@ -84,7 +86,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Anne Arran|8a|Cauchemar de Elephant||||
 |Airlie Anderson|8a|Reve de Papillon||||
 |Becca lounds|8a|Aberration|||2018|
-|Koon Morris|8a|Ching, Axiom|||2018|
 |Sarah Pashley|8a|La Tuerie d'Oriol|||2017|
 |Heather Florence|8a|Chryssalida|||2018|
 |Shauna Coxsey|8a|Watermark||||
