@@ -37,6 +37,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Imogen Horrcks|7C+|The Hatchling||||
 |Hazel Findlay|7C+|Corridors of Power|||2019|
 |Mia Stacey|7C+|Walk on By||||
+|Rachel Daly|7C+|Kroenen|||2020|
 |Emily Fell|7C|Peckitt's Traverse, Bat Bites Again, The Wire, Jack The Chipper||||
 |Charlie Torrance|7C|Rock Atrocity, Fish Pie||||
 |Rae Cowie|7C|Powerband, Ben's Roof||||
