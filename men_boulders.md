@@ -5,7 +5,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
 |Toby Saxton|8C|The Finnish Line, Monkey Wedding, Arzak||||
-|James Squire|8C|The World is Yours (x), Spray of Light||||
+|James Squire|8C|The World is Yours (x), Spray of Light, Ambition (x)||||
 |Ned Feehally|8C|The Big Island, Serenata||Flashed Trust Issues, 8B+.||
 |Mike Adams|8C|Serenata, Serenataon||Serenata and Serenataon are variations of a similar problem.||
 |Aidan Roberts|8C|Monkey Wedding, Railway (x)||Flashed Master Key, 8B.||
