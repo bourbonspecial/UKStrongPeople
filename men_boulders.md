@@ -49,6 +49,8 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Sam Prior|8B+|Sapceship|||2019|
 |Billy Ridal|8B+|Never Ending Story|||2019|
 |Alex Waterhouse|8B+|New Base Line|||2019|
+|Rob Hunter|8B+|Blondie SDS (x)|||2020|
+|Liam Fyffe|8B+|The Origin|||2020|
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Hamish Potokar|8B|The Ace, Sanction, Pressure||||
 |Joe Lawson|8B|The Hourglass, Amber, Delusions of Grandeur||||
@@ -92,7 +94,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ben Bransby|8B|BonAttrocity||||
 |Eli Cartwright|8B|The Riverbed||||
 |Alex Moore|8B|Isla d'encanta||||
-|Liam Fyffe|8B|Ropes of Maui||||
 |Will Buck|8B|Rhythm||||
 |Dave Cowl|8B|Reel Keelhaul||||
 |Luke FLetcher|8B|Ropes of Maui||||
@@ -110,7 +111,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Stuart Littlefair|8B|Jean Claude Van Lamb|||2019|
 |James Garden|8B|Jean Claude Van Lamb|||2019|
 |Pete Wilkinson|8B|Diluvian|||2019|
-|Rob Hunter|8B|Intergalactic||||
 |Ricky Bell|8B|Gentlemen's Arete||||
 |Rory Fowler|8B|WADzilla||||
 |Buster Martin|8B|The Vice||||
