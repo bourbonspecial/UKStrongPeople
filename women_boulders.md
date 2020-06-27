@@ -38,11 +38,13 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Hazel Findlay|7C+|Corridors of Power|||2019|
 |Mia Stacey|7C+|Walk on By||||
 |Rachel Daly|7C+|Kroenen|||2020|
+|Rebecca Stephens|7C+|Kroenen|||2020|
+|Thea Cameron|7C+|Grand Opera||||
+|Kitty Morrison|7C+|Caroline||||
 |Emily Fell|7C|Peckitt's Traverse, Bat Bites Again, The Wire, Jack The Chipper||||
 |Charlie Torrance|7C|Rock Atrocity, Fish Pie||||
 |Rae Cowie|7C|Powerband, Ben's Roof||||
 |Alison Monks|7C|Sprung, Coronary Bypass||||
-|Rebecca Stephens|7C|Ash Tree Wall, The Noisy Cricket||||
 |Charlotte Telfer|7C|Jess's Roof ||||
 |Michelle Wardle|7C|Rock Atrocity||||
 |Diane Merrick|7C|Paint it Black||||
@@ -61,3 +63,5 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Kate Ennis|7C|Oreo||||
 |Evelyn Dearlove|7C|Enchantress||||
 |Dalvinder Sodhi|7C|Brad Pit||First female ascent||
+|Gwenyth Uttley|7C|Ben's Roof|||2020|
+|Tanya Meredith|7C|Left Wall High||||
