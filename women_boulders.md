@@ -41,7 +41,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Rebecca Stephens|7C+|Kroenen|||2020|
 |Thea Cameron|7C+|Grand Opera||||
 |Kitty Morrison|7C+|Caroline||||
+|Gracie Martin|7C+|Lou Ferrino||||
+|Hannah Toward|7C+|Tension Set|||Age 12. After a hold break, so she started on a slightly lower hold.|
 |Emily Fell|7C|Peckitt's Traverse, Bat Bites Again, The Wire, Jack The Chipper||||
+|Rowanne Bennett-Waters|7C|Dr Crimp, Paint it Black, Power Strips||||
 |Charlie Torrance|7C|Rock Atrocity, Fish Pie||||
 |Rae Cowie|7C|Powerband, Ben's Roof||||
 |Alison Monks|7C|Sprung, Coronary Bypass||||
@@ -65,3 +68,5 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dalvinder Sodhi|7C|Brad Pit||First female ascent||
 |Gwenyth Uttley|7C|Ben's Roof|||2020|
 |Tanya Meredith|7C|Left Wall High||||
+|Michelle Greenall|7C|Stalker on the Horizon||||
+|Katherine Schirmacher|7C|Brad Pit||||
