@@ -37,7 +37,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Nigel Callender|8B+|Monk Life||||
 |Mike Hart|8B+|Pilgrimage||||
 |Tom Newman|8B+|Serendipity||||
-|Nathan Phillips|8B+|Mystic Stylez||Flashed Ropes of Maui, 8B.||
+|Nathan Phillips|8B+|Mystic Stylez||||
 |Johnny Kydd|8B+|Spaceship||||
 |Tom Peckitt|8B+|Amandala||||
 |Matt Birch|8B+|Mandala SDS|||2008|
@@ -83,8 +83,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Joe Wilson|8B|Bloodsport LH||||
 |Sam Whittaker|8B|Le Dernier Attrocity||||
 |Ed Hamer|8B|Louis Armstrong||||
-|Dom Bridgewood|8B|Ropes of Maui||||
-|Oli Grounsell|8B|Ropes of Maui||||
 |Dave Nodden|8B|Keen Roof||||
 |Michael Bleazard|8B|Steppenwolf||||
 |Jonny Argue|8B|Fat lip||||
@@ -96,7 +94,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Alex Moore|8B|Isla d'encanta||||
 |Will Buck|8B|Rhythm||||
 |Dave Cowl|8B|Reel Keelhaul||||
-|Luke FLetcher|8B|Ropes of Maui||||
 |Phil Rose|8B|Keen Roof||||
 |Mikey Cleverdon|8B|Waterman||||
 |Cailean Harker|8B|The Ace||||
