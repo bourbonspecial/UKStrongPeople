@@ -69,6 +69,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Andy Banks|8B|Vice President, Flor de Loto||||
 |Ben West|8B|Steppenwolf, Mooiste Meisie|||2015|
 |Danny Cattell|8B|Le Dernier Attrocity, Paper Birds Low||||
+|Luke Fletcher|8B|Dead and Bloated, Mr. Spantastic (x)||||
 |Euan MacFadyen|8B|King of Limbs||||
 |Ollie Torr|8B|Fat Lip||||
 |Andy Burgess|8B|Keen Roof||||
@@ -114,3 +115,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tom Randall|8B|The Kraken||||
 |Greg Chapman|8B|Walk Away||||
 |Si Moore|8B|Nothin' but Sunshine||||
+|Dom Bridgwood|8B|Keen Roof||||
