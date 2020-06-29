@@ -71,6 +71,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Danny Cattell|8B|Le Dernier Attrocity, Paper Birds Low||||
 |Luke Fletcher|8B|Dead and Bloated, Mr. Spantastic (x)||||
 |Stuart Littlefair|8B|Jean Claude Van Lamb, Superman|||2019|
+|Finley Wood|8B|WADzilla, Godzilla SDS|||2020|
 |Euan MacFadyen|8B|King of Limbs||||
 |Ollie Torr|8B|Fat Lip||||
 |Andy Burgess|8B|Keen Roof||||
