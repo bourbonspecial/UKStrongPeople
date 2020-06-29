@@ -70,6 +70,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ben West|8B|Steppenwolf, Mooiste Meisie|||2015|
 |Danny Cattell|8B|Le Dernier Attrocity, Paper Birds Low||||
 |Luke Fletcher|8B|Dead and Bloated, Mr. Spantastic (x)||||
+|Stuart Littlefair|8B|Jean Claude Van Lamb, Superman|||2019|
 |Euan MacFadyen|8B|King of Limbs||||
 |Ollie Torr|8B|Fat Lip||||
 |Andy Burgess|8B|Keen Roof||||
@@ -106,7 +107,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jamie Cassidy|8B|Directors Cut||||
 |Ellis Butler-Barker|8B|Occam's Razor||||
 |Will Atkinson|8B|One Step Beyond (x)||||
-|Stuart Littlefair|8B|Jean Claude Van Lamb|||2019|
 |James Garden|8B|Jean Claude Van Lamb|||2019|
 |Pete Wilkinson|8B|Diluvian|||2019|
 |Ricky Bell|8B|Gentlemen's Arete||||
@@ -116,3 +116,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Greg Chapman|8B|Walk Away||||
 |Si Moore|8B|Nothin' but Sunshine||||
 |Dom Bridgwood|8B|Keen Roof||||
+|Sam Blackwel|8B|Keen Roof||||
