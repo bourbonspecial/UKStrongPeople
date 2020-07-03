@@ -51,6 +51,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Alex Waterhouse|8B+|New Base Line|||2019|
 |Rob Hunter|8B+|Blondie SDS (x)|||2020|
 |Liam Fyffe|8B+|The Origin|||2020|
+|Paul Smitton|8B+|Pump Up the Staminaband||||
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Hamish Potokar|8B|The Ace, Sanction, Pressure||||
 |Joe Lawson|8B|The Hourglass, Amber, Delusions of Grandeur||||
@@ -118,5 +119,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Si Moore|8B|Nothin' but Sunshine||||
 |Dom Bridgwood|8B|Keen Roof||||
 |Sam Blackwel|8B|Keen Roof||||
-|Paul Smitton|8B|Pump Up the Staminaband||||
 |Leo Skinner|8B|Louis Left||||
