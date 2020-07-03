@@ -118,3 +118,5 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Si Moore|8B|Nothin' but Sunshine||||
 |Dom Bridgwood|8B|Keen Roof||||
 |Sam Blackwel|8B|Keen Roof||||
+|Paul Smitton|8B|Pump Up the Staminaband||||
+|Leo Skinner|8B|Louis Left||||
