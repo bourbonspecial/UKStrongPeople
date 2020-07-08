@@ -5,8 +5,8 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
 |Emma Twyford|9a|Big Bang||First british woman to climb harder than 8c.|2019|
+|Molly Thompson-Smith|8c|Fabelita, Rollito Sharma Extension, Roof Warrior, Intercooler, New Orleans Heavyweight Division|||2018|
 |Mina Leslie-Wujastik|8c|Mecca Extension, Bat Route, Nordic Plumber, Raining Bats and Dogs|||2014|
-|Molly Thompson-Smith|8c|Fabelita, Rollito Sharma Extension, Roof Warrior|||2018|
 |Hazel Findlay|8c|Mind Control, Fish Eye||First 8c by a UK woman with Fish Eye.|2014|
 |Maddie Cope|8c|Bat Route, Mind Control|||2017|
 |Lucy Mitchell|8c|Fish Eye|||2017|
