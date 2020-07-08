@@ -57,6 +57,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tom Newberry|8c+|Spicy Noodle||||
 |Paul Smitton|8c+|Kaa'bah||Second ascent.||
 |Josh Ibbertson|8c+|?||Aged 14.||
+|Kieran Forrest|8c+|Liquid Ambar|||2020|
 |James Turnbull|8c|Bat Route, Epic Adventures, Raining Bats and Dogs|||2016, 2017, 2018|
 |Bob Hickish|8c|Endeavor, Mecca Ext, True North||||
 |Matt Cooke|8c|Cry Freedom, Bat Route|||2019|
