@@ -46,6 +46,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jennifer Wood|8a+|Develop as You Are|||2019|
 |Helen Dudley|8a+|Path of Excess Power|||2008|
 |Kate Gascoyne|8a+|Supercool||||
+|Nicola Taylor|8a+|Supercool||||
 |Natalie Tanzer|8a|Salva Mea, Me Cago en el Amor, El Desafío|||2013|
 |Rachel Slater|8a|Coliseum, Bon Viatge, Latido del miedo|||2013|
 |Holly Murray|8a|The Sissy, Aberration, Complete Control|||2019|
@@ -57,7 +58,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Zoe Ogden|8a|Raindogs||||
 |Emily Allen|8a|Aberration||||
 |Karen Whitehouse|8a|Aberration||||
-|Nicola Taylor|8a|Aberration||||
 |Rebecca Kinghorn|8a|Daniboy||||
 |Katherine Schirrmacher|8a|Powerplant||||
 |Katy Piddock|8a|Pren Nota||||
