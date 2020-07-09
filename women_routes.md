@@ -45,6 +45,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Zoë Peetermans|8a+|La Femme Blanche||||
 |Jennifer Wood|8a+|Develop as You Are|||2019|
 |Helen Dudley|8a+|Path of Excess Power|||2008|
+|Kate Gascoyne|8a+|Supercool||||
 |Natalie Tanzer|8a|Salva Mea, Me Cago en el Amor, El Desafío|||2013|
 |Rachel Slater|8a|Coliseum, Bon Viatge, Latido del miedo|||2013|
 |Holly Murray|8a|The Sissy, Aberration, Complete Control|||2019|
