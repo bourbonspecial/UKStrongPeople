@@ -47,10 +47,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Helen Dudley|8a+|Path of Excess Power|||2008|
 |Kate Gascoyne|8a+|Supercool||||
 |Nicola Taylor|8a+|Supercool||||
+|Anna Gilyeat|8a+|Cross 'n Angry|||2020|
 |Natalie Tanzer|8a|Salva Mea, Me Cago en el Amor, El Desafío|||2013|
 |Rachel Slater|8a|Coliseum, Bon Viatge, Latido del miedo|||2013|
 |Holly Murray|8a|The Sissy, Aberration, Complete Control|||2019|
-|Anna Gilyeat|8a|Raindogs, Ouijaboard||||
 |Lis Espin|8a|Just Call Me Helmet, Hang Ten|||2007|
 |Charlotte Warner|8a|Pinza time, La Cuca|||2014|
 |Rebekah Drummond|8a|Transilvania, Shimmy Sham|||2018|
