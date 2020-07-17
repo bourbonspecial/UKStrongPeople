@@ -62,6 +62,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Bob Hickish|8c|Endeavor, Mecca Ext, True North||||
 |Matt Cooke|8c|Cry Freedom, Bat Route|||2019|
 |Finn Hayward|8c|Mind Control, Fish Eye||Mind Control 3rd go. Both aged 15.|2019|
+|Chris Smith|8c|Battle Cat, True North|||2019|
 |Neil Mawson|8c|Raining Bats and Dogs||||
 |Richard Waterton|8c|Raining Bats and Dogs||||
 |Adam Jeeworth|8c|Raining Bats and Dogs||||
@@ -113,7 +114,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Sam Williams|8c|Bat Route|||2019|
 |Alex Norton|8c|Make it Funky|||2019|
 |Jim Hulbert|8c|Bat Route|||2019|
-|Chris Smith|8c|True North||||
 |Billy Ridal|8c|Make it Funky|||2020|
 |Alexis Perry|8c|The Death Star|?|The line is eliminate and the grade depends quite a bit on the holds and sequence used.||
 |Ian Cooper|8c|The Death Star||Clarified with the FA and sequence used was the same.||
