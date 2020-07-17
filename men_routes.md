@@ -114,6 +114,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Alex Norton|8c|Make it Funky|||2019|
 |Jim Hulbert|8c|Bat Route|||2019|
 |Chris Smith|8c|True North||||
+|Billy Ridal|8c|Make it Funky|||2020|
 |Alexis Perry|8c|The Death Star|?|The line is eliminate and the grade depends quite a bit on the holds and sequence used.||
 |Ian Cooper|8c|The Death Star||Clarified with the FA and sequence used was the same.||
 |Mark Edwards|8c|Nuts Are Not the Only Fruit (x)|?|Originally given 8b+, Mark has [subsequently stated](https://www.8a.nu/forum/editorial/8b+-in-1991-possibly-8c+-9a-2018) it may be 8c+/9a due to grade inflation. It has been debolted since the first ascent and thus hasn't been repeated and is unlikely to see a repeat.||
