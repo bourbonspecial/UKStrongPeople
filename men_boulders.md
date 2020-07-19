@@ -73,6 +73,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Luke Fletcher|8B|Dead and Bloated, Mr. Spantastic (x)||||
 |Stuart Littlefair|8B|Jean Claude Van Lamb, Superman|||2019|
 |Finley Wood|8B|WADzilla, Godzilla SDS|||2020|
+|Martin Smith|8B|General Disarray, Superman||||
 |Euan MacFadyen|8B|King of Limbs||||
 |Ollie Torr|8B|Fat Lip||||
 |Andy Burgess|8B|Keen Roof||||
@@ -121,4 +122,3 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Sam Blackwel|8B|Keen Roof||||
 |Leo Skinner|8B|Louis Left||||
 |Chris Smith|8B|You Can Go Now||||
-|Martin Smith|8B|General Disarray||||
