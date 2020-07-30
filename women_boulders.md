@@ -26,6 +26,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Gill Peet|8A|Moreau's Island||||
 |Steph Holland|8A|Witness the Churnetness||||
 |Jo Allen|8A|Backstreet Mime Artist||||
+|Ruby Petch|8A|The Revolution is Coming||||
 |Katy Whittaker|7C+|Shirley's Shining Temple (flash), The Hatchling||||
 |Charlotte Garden|7C+|Caroline, The Departed||||
 |Katie Maxwell|7C+|Caroline, Working 9-5 Stand||||
