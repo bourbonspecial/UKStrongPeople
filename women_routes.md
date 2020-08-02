@@ -31,6 +31,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Dalvinder Sodhi|8b|Stolen|||2017|
 |Tanya Meredith|8b|Austrian Oak|||2018|
 |Hannah Toward|8b|Les Chacals||Age 12.|2019|
+|Hazel Dearlove|8b|Love Amongst the Butterflies|||2020|
 |Thea Cameron|8a+/b|Espirit Rebeld|||2019|
 |Ako Shillitoe|8a+|Supercool||||
 |Ruth Smitton|8a+|Supercool||||
@@ -77,7 +78,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Emily Phillips|8a|La Cucina Dell'Inferno|||2016|
 |Sophie Whyte |8a|"8a at Los Tigres"||||
 |Tessa Silvestre Le Lyon|8a|Sombre del Viento, Margalef|||2017|
-|Hazel Dearlove|8a|Aberration||||
 |Rachel Farmer|8a|Raindogs||First 8a by a UK woman. Also first 7c+ with Let the Tribe Increase.||
 |Lucy Ellis|8a|Raindogs|?|||
 |Gwyneth Uttley|8a|Pren Nota, Cidersoak||||

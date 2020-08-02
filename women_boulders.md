@@ -27,6 +27,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Steph Holland|8A|Witness the Churnetness||||
 |Jo Allen|8A|Backstreet Mime Artist||||
 |Ruby Petch|8A|The Revolution is Coming||||
+|Gwenyth Uttley|8A|The Revolution is Coming|||2020|
 |Katy Whittaker|7C+|Shirley's Shining Temple (flash), The Hatchling||||
 |Charlotte Garden|7C+|Caroline, The Departed||||
 |Katie Maxwell|7C+|Caroline, Working 9-5 Stand||||
@@ -67,7 +68,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Kate Ennis|7C|Oreo||||
 |Evelyn Dearlove|7C|Enchantress||||
 |Dalvinder Sodhi|7C|Brad Pit||First female ascent||
-|Gwenyth Uttley|7C|Ben's Roof|||2020|
 |Tanya Meredith|7C|Left Wall High||||
 |Michelle Greenall|7C|Stalker on the Horizon||||
 |Katherine Schirmacher|7C|Brad Pit||||
