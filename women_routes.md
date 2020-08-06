@@ -94,3 +94,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Harriet Hall|8a|The Best Off|||2012|
 |Ferdia Earle|8a|The Invisible Girl|||2019|
 |Lily Keal|8a|Storm Warning Variation|||2020|
+|Pippa Froggatt|8a|Storm Warning Variation||||
