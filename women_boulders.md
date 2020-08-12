@@ -71,3 +71,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tanya Meredith|7C|Left Wall High||||
 |Michelle Greenall|7C|Stalker on the Horizon||||
 |Katherine Schirmacher|7C|Brad Pit||||
+|Tess Bennett|7C|Antihero|||2020|
