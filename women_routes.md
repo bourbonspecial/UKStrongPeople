@@ -80,7 +80,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tessa Silvestre Le Lyon|8a|Sombre del Viento, Margalef|||2017|
 |Rachel Farmer|8a|Raindogs||First 8a by a UK woman. Also first 7c+ with Let the Tribe Increase.||
 |Lucy Ellis|8a|Raindogs|?|||
-|Gwyneth Uttley|8a|Pren Nota, Cidersoak||||
+|Gwyneth Uttley|8a|Pren Nota, The Cider Soak|||2017|
 |Felicity Butler|8a|Statement of Youth||||
 |Naiomi Guy|8a?|||||
 |Alison Cowley|8a|Johnnie Walker|||1999|
