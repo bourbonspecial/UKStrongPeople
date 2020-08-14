@@ -28,6 +28,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jo Allen|8A|Backstreet Mime Artist||||
 |Ruby Petch|8A|The Revolution is Coming||||
 |Gwenyth Uttley|8A|The Revolution is Coming|||2020|
+|Rebecca Stephens|8A|Hatchatrocity|||2020|
 |Katy Whittaker|7C+|Shirley's Shining Temple (flash), The Hatchling||||
 |Charlotte Garden|7C+|Caroline, The Departed||||
 |Katie Maxwell|7C+|Caroline, Working 9-5 Stand||||
@@ -40,7 +41,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Hazel Findlay|7C+|Corridors of Power|||2019|
 |Mia Stacey|7C+|Walk on By||||
 |Rachel Daly|7C+|Kroenen|||2020|
-|Rebecca Stephens|7C+|Kroenen|||2020|
 |Thea Cameron|7C+|Grand Opera||||
 |Kitty Morrison|7C+|Caroline||||
 |Gracie Martin|7C+|Lou Ferrino||||
