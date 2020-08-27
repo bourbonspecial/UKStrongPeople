@@ -48,6 +48,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Emily Fell|7C|Peckitt's Traverse, Bat Bites Again, The Wire, Jack The Chipper||||
 |Rowanne Bennett-Waters|7C|Dr Crimp, Paint it Black, Power Strips||||
 |Charlie Torrance|7C|Rock Atrocity, Fish Pie||||
+|Liv Pearson|7C|Peckitt's Traverse, Taylor Made||||
 |Rae Cowie|7C|Powerband, Ben's Roof||||
 |Alison Monks|7C|Sprung, Coronary Bypass||||
 |Charlotte Telfer|7C|Jess's Roof ||||
