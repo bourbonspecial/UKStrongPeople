@@ -4,11 +4,11 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 
 | Name | Grade | Route |Unsure|Notes|Year|
 |------|-------|-------|------|-----|----|
+|James Squire|8C|The World is Yours (x), Spray of Light, Ambition (x), Power of Now||||
 |Toby Saxton|8C|The Finnish Line, Monkey Wedding, Arzak||||
-|James Squire|8C|The World is Yours (x), Spray of Light, Ambition (x)||||
+|Aidan Roberts|8C|Monkey Wedding, Railway (x), Outliers (x)||Flashed Master Key, 8B.||
 |Ned Feehally|8C|The Big Island, Serenata||Flashed Trust Issues, 8B+.||
 |Mike Adams|8C|Serenata, Serenataon||Serenata and Serenataon are variations of a similar problem.||
-|Aidan Roberts|8C|Monkey Wedding, Railway (x)||Flashed Master Key, 8B.||
 |Eliot Stephens|8C|Arzak, From the Dirt Grows the Flowers||||
 |Dave Macleod|8C|Practice of the Wild||||
 |Will Bosi|8C|Practice of the Wild|||2018|
