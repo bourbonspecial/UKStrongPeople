@@ -32,6 +32,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tanya Meredith|8b|Austrian Oak|||2018|
 |Hannah Toward|8b|Les Chacals||Age 12.|2019|
 |Hazel Dearlove|8b|Love Amongst the Butterflies|||2020|
+|Jemma Powell|8b|The Brute|||2020|
 |Thea Cameron|8a+/b|Espirit Rebeld|||2019|
 |Ako Shillitoe|8a+|Supercool||||
 |Ruth Smitton|8a+|Supercool||||
