@@ -124,3 +124,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Leo Skinner|8B|Louis Left||||
 |Chris Smith|8B|You Can Go Now||||
 |Henry Henderson|8B|Keen Roof|||2020|
+|Lewis Roy|8B|Supersize Me|||2020|
