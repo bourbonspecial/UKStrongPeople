@@ -10,8 +10,8 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ned Feehally|8C|The Big Island, Serenata||Flashed Trust Issues, 8B+.||
 |Mike Adams|8C|Serenata, Serenataon||Serenata and Serenataon are variations of a similar problem.||
 |Eliot Stephens|8C|Arzak, From the Dirt Grows the Flowers||||
+|Will Bosi|8C|Practice of the Wild, Serenata|||2018|
 |Dave Macleod|8C|Practice of the Wild||||
-|Will Bosi|8C|Practice of the Wild|||2018|
 |Tyler Landman|8C|Practice of the Wild||||
 |Dawid Skoczylas|8C|Serenata||||
 |John Gaskins|8C|Walk Away SDS||||
