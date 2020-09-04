@@ -125,3 +125,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Chris Smith|8B|You Can Go Now||||
 |Henry Henderson|8B|Keen Roof|||2020|
 |Lewis Roy|8B|Supersize Me|||2020|
+|Tim Blake|8B|Isle of Wonder|||2020|
