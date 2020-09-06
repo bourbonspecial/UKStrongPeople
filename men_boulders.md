@@ -126,3 +126,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Henry Henderson|8B|Keen Roof|||2020|
 |Lewis Roy|8B|Supersize Me|||2020|
 |Tim Blake|8B|Isle of Wonder|||2020|
+|Craig Davies|8B|Compact Culture|||2020|
