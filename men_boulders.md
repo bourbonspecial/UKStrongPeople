@@ -55,6 +55,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Hamish Potokar|8B+|Spaceship||||
 |Pete Dawson|8B+|Pilgrimage||||
 |Kieran Forrest|8B+|Pilgrimage||||
+|Sam Blackwel|8B+|Spaceship|||2020|
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Joe Lawson|8B|The Hourglass, Amber, Delusions of Grandeur||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
@@ -120,7 +121,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Greg Chapman|8B|Walk Away||||
 |Si Moore|8B|Nothin' but Sunshine||||
 |Dom Bridgwood|8B|Keen Roof||||
-|Sam Blackwel|8B|Keen Roof||||
 |Leo Skinner|8B|Louis Left||||
 |Chris Smith|8B|You Can Go Now||||
 |Henry Henderson|8B|Keen Roof|||2020|
