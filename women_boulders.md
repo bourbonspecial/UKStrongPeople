@@ -12,10 +12,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ella Russell|8A+|Sleepy Hollow||||
 |Nia Fletcher|8A+|Fat Lady||||
 |Becky Wilby|8A+|Armed Response||||
+|Rhoslyn Frugniet|8A|Teamwork, Corridors of Power, The Revolution is Coming|||2019|
 |Molly Thompson-Smith|8A|Dead Can't Dance, Tsunami||||
 |Emma Flaherty|8A|Backstreet Mime Artist, Röyksopp||||
 |Michaela Tracy|8A|Halcyon, Truth and Lies||||
-|Rhoslyn Frugniet|8A|Teamwork, Corridors of Power|||2019|
 |Rachel Carr|8A|God Save My Finger, Pendragon|||2019|
 |Jemma Powell|8A|Stoned Temple Pilots||||
 |Leah Crane|8A|Tourniquet||||
