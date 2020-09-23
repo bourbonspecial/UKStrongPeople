@@ -36,6 +36,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ted Kingsnorth|8c+|Kaa’bah, Just Do It||||
 |Oli Grounsell|8c+| Megalupa, Radar Ez||||
 |Matthew Wright|8c+|Evolution, Kaa’bah|||2019, 2020|
+|Jon Freeman|8c+|Progress, Sabotage||||
 |Ken Palmer|8c+|Brian||||
 |Stew Watson|8c+|One Night Stand||||
 |Gaz Parry|8c+|Supersonico||||
@@ -48,7 +49,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Wiz Fineron|8c+|Mr Hyde||||
 |Alan Cassidy|8c+|Metalcore||||
 |Ben Davison|8c+|Eye of Odin||||
-|Jon Freeman|8c+|Progress||||
 |Haydn Jones|8c+|Kaa’bah||||
 |Neil Gresham|8c+|Sabotage||||
 |Jim Pope|8c+|Mr Hyde||||
