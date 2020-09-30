@@ -27,6 +27,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |John Gaskins|9a|Hubble||||
 |Micky Paige|9a|The Illusionist|||2019|
 |Kieran Forrest|9a|The Big Bang|||2020|
+|Matthew Wright|9a|Hubble|||2020|
 |Hamish MacArthur|8c+/9a|A Muerte, Jungle Speed|||2020|
 |James Pearson|8c+/9a|Escalatamàsters||||
 |John Dunne|8c+/9a (x)|Total Eclipse||'tentatively graded 9a' by John ([src](https://ukbouldering.com/board/index.php/topic,26017.msg583467.html#msg583467)) but [reckoned to be 8c+/9a by Ondra](https://www.ukclimbing.com/news/2011/06/ondra_speaks_on_total_eclipse-62560).||
@@ -35,7 +36,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jerry Moffatt|8c+|Liquid Ambar, Evolution||||
 |Ted Kingsnorth|8c+|Kaa’bah, Just Do It||||
 |Oli Grounsell|8c+| Megalupa, Radar Ez||||
-|Matthew Wright|8c+|Evolution, Kaa’bah|||2019, 2020|
 |Jon Freeman|8c+|Progress, Sabotage||||
 |Ken Palmer|8c+|Brian||||
 |Stew Watson|8c+|One Night Stand||||
