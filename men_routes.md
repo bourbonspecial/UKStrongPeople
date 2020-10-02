@@ -64,6 +64,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Matt Cooke|8c|Cry Freedom, Bat Route|||2019|
 |Finn Hayward|8c|Mind Control, Fish Eye||Mind Control 3rd go. Both aged 15.|2019|
 |Chris Smith|8c|Battle Cat, True North|||2019|
+|Matt Broadhurst|8c|Nordic Plumber, Troll Hammer, Mecca Extension|||2019|
 |Neil Mawson|8c|Raining Bats and Dogs||||
 |Richard Waterton|8c|Raining Bats and Dogs||||
 |Adam Jeeworth|8c|Raining Bats and Dogs||||
