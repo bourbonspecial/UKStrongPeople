@@ -59,7 +59,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Joe Lawson|8B|The Hourglass, Amber, Delusions of Grandeur||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
-|Jim  Pope|8B|End Game, The Last Dance|||2020|
+|Jim  Pope|8B|End Game, The Last Dance, Diluvian, Antidiluvian|||2020|
 |Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
 |Steve McClure|8B|Fat Lip, Close of Business||Climbed Hubble which is said to have an 8B/+ boulder problem crux||
 |Chris Davies|8B|Power of Goodbye, My Own Private Idaho||||
