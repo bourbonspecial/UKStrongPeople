@@ -34,6 +34,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Hazel Dearlove|8b|Love Amongst the Butterflies|||2020|
 |Jemma Powell|8b|The Brute|||2020|
 |Thea Cameron|8b|Austrian Oak|||2020|
+|Anna Gilyeat|8a+|Cross 'n Angry, GBH|||2020|
 |Ako Shillitoe|8a+|Supercool||||
 |Ruth Smitton|8a+|Supercool||||
 |Julie Pearson|8a+|Supercool||||
@@ -49,11 +50,10 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Helen Dudley|8a+|Path of Excess Power|||2008|
 |Kate Gascoyne|8a+|Supercool||||
 |Nicola Taylor|8a+|Supercool||||
-|Anna Gilyeat|8a+|Cross 'n Angry|||2020|
 |Anna Wild|8a+|GBH|||2020|
+|Holly Murray|8a+|Flow|||2020|
 |Natalie Tanzer|8a|Salva Mea, Me Cago en el Amor, El Desafío|||2013|
 |Rachel Slater|8a|Coliseum, Bon Viatge, Latido del miedo|||2013|
-|Holly Murray|8a|The Sissy, Aberration, Complete Control|||2019|
 |Lis Espin|8a|Just Call Me Helmet, Hang Ten|||2007|
 |Charlotte Warner|8a|Pinza time, La Cuca|||2014|
 |Rebekah Drummond|8a|Transilvania, Shimmy Sham|||2018|
