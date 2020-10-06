@@ -127,4 +127,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Lewis Roy|8B|Supersize Me|||2020|
 |Tim Blake|8B|Isle of Wonder|||2020|
 |Craig Davies|8B|Compact Culture|||2020|
+|George Newham|8B|Keen Roof|||2020|
+|Hamish McArthur|8B|Sideshow|||2020|
 |Pete Wilkinson|8A+|Fragile Steps, Diluvian|||Honorary mention as Pete has done two 8A+s that have subsequently been downgraded due to beta changes.|
