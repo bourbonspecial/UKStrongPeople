@@ -59,7 +59,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Joe Lawson|8B|The Hourglass, Amber, Delusions of Grandeur||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
-|Jim  Pope|8B|End Game, The Last Dance, Diluvian, Antidiluvian|||2020|
+|Jim  Pope|8B|End Game, The Last Dance, Antidiluvian|||2020|
 |Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
 |Steve McClure|8B|Fat Lip, Close of Business||Climbed Hubble which is said to have an 8B/+ boulder problem crux||
 |Chris Davies|8B|Power of Goodbye, My Own Private Idaho||||
@@ -114,7 +114,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Ellis Butler-Barker|8B|Occam's Razor||||
 |Will Atkinson|8B|One Step Beyond (x)||||
 |James Garden|8B|Jean Claude Van Lamb|||2019|
-|Pete Wilkinson|8B|Diluvian|||2019|
 |Ricky Bell|8B|Gentlemen's Arete||||
 |Rory Fowler|8B|WADzilla||||
 |Buster Martin|8B|The Vice||||
@@ -128,3 +127,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Lewis Roy|8B|Supersize Me|||2020|
 |Tim Blake|8B|Isle of Wonder|||2020|
 |Craig Davies|8B|Compact Culture|||2020|
+|Pete Wilkinson|8A+|Fragile Steps, Diluvian|||Honorary mention as Pete has done two 8A+s that have subsequently been downgraded due to beta changes.|
