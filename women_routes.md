@@ -50,6 +50,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Kate Gascoyne|8a+|Supercool||||
 |Nicola Taylor|8a+|Supercool||||
 |Anna Gilyeat|8a+|Cross 'n Angry|||2020|
+|Anna Wild|8a+|GBH|||2020|
 |Natalie Tanzer|8a|Salva Mea, Me Cago en el Amor, El Desafío|||2013|
 |Rachel Slater|8a|Coliseum, Bon Viatge, Latido del miedo|||2013|
 |Holly Murray|8a|The Sissy, Aberration, Complete Control|||2019|
