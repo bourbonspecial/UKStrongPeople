@@ -129,4 +129,5 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Craig Davies|8B|Compact Culture|||2020|
 |George Newham|8B|Keen Roof|||2020|
 |Hamish McArthur|8B|Sideshow|||2020|
+|Andy Jackson|8B|Keen Roof|||2020|
 |Pete Wilkinson|8A+|Fragile Steps, Diluvian|||Honorary mention as Pete has done two 8A+s that have subsequently been downgraded due to beta changes.|
