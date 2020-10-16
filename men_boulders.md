@@ -28,6 +28,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
 |Matthew Wright|8B+|Belly of the Beast, Serendipity|||2019|
 |Alex Barrows|8B+|Belly of the Beast, The Wheel of Life||||
+|Billy Ridal|8B+|Never Ending Story, Superman SDS|||2019, 2020|
 |Ben Freeman|8B+|Monk Life||||
 |Max Milne|8B+|Lord Faquhar (x)||||
 |Ben Moon|8B+|Voyager Sit||||
@@ -47,7 +48,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Pete Robins|8B+|Silk Cut||||
 |Tim Palmer|8B+|Mandala SDS||||
 |Sam Prior|8B+|Sapceship|||2019|
-|Billy Ridal|8B+|Never Ending Story|||2019|
 |Alex Waterhouse|8B+|New Base Line|||2019|
 |Rob Hunter|8B+|Blondie SDS (x)|||2020|
 |Liam Fyffe|8B+|The Origin|||2020|
