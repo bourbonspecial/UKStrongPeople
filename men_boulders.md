@@ -56,10 +56,12 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Pete Dawson|8B+|Pilgrimage||||
 |Kieran Forrest|8B+|Pilgrimage||||
 |Sam Blackwel|8B+|Spaceship|||2020|
+|Hamish McArthur|8B+|Traci Lords SDS|||2020|
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Joe Lawson|8B|The Hourglass, Amber, Delusions of Grandeur||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
 |Jim  Pope|8B|End Game, The Last Dance, Antidiluvian|||2020|
+|Solly Kemball-Dory|8B|The Vault, Merlin's Beard, Aneurin's Arête (x)|||2019, 2020, 2020|
 |Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
 |Steve McClure|8B|Fat Lip, Close of Business||Climbed Hubble which is said to have an 8B/+ boulder problem crux||
 |Chris Davies|8B|Power of Goodbye, My Own Private Idaho||||
@@ -128,6 +130,5 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tim Blake|8B|Isle of Wonder|||2020|
 |Craig Davies|8B|Compact Culture|||2020|
 |George Newham|8B|Keen Roof|||2020|
-|Hamish McArthur|8B|Sideshow|||2020|
 |Andy Jackson|8B|Keen Roof|||2020|
 |Pete Wilkinson|8A+|Fragile Steps, Diluvian|||Honorary mention as Pete has done two 8A+s that have subsequently been downgraded due to beta changes.|
