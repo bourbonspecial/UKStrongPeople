@@ -57,11 +57,11 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Kieran Forrest|8B+|Pilgrimage||||
 |Sam Blackwel|8B+|Spaceship|||2020|
 |Hamish McArthur|8B+|Traci Lords SDS|||2020|
+|Solly Kemball-Dory|8B+|Speed of Light (x)|||2020|
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Joe Lawson|8B|The Hourglass, Amber, Delusions of Grandeur||||
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
 |Jim  Pope|8B|End Game, The Last Dance, Antidiluvian|||2020|
-|Solly Kemball-Dory|8B|The Vault, Merlin's Beard, Aneurin's Arête (x)|||2019, 2020, 2020|
 |Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
 |Steve McClure|8B|Fat Lip, Close of Business||Climbed Hubble which is said to have an 8B/+ boulder problem crux||
 |Chris Davies|8B|Power of Goodbye, My Own Private Idaho||||
