@@ -56,7 +56,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Pete Dawson|8B+|Pilgrimage||||
 |Kieran Forrest|8B+|Pilgrimage||||
 |Sam Blackwel|8B+|Spaceship|||2020|
-|Hamish McArthur|8B+|Traci Lords SDS|||2020|
+|Hamish McArthur|8B+|Traci Lords SDS||The line of Traci Lords SDS is not entirely clear following a break on the stand. Aidan Roberts made the FA post break but the sequence is 'quite contrived'. Hamish climbed 'some kind of sit to Shyla Stylez'. Details https://ukbouldering.com/board/index.php/topic,26074.msg619023.html#msg619023|2020|
 |Solly Kemball-Dory|8B+|Speed of Light (x)|||2020|
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Joe Lawson|8B|The Hourglass, Amber, Delusions of Grandeur||||
