@@ -56,7 +56,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Pete Dawson|8B+|Pilgrimage||||
 |Kieran Forrest|8B+|Pilgrimage||||
 |Sam Blackwel|8B+|Spaceship|||2020|
-|Hamish McArthur|8B+|Traci Lords SDS||The line of Traci Lords SDS is not entirely clear following a break on the stand. Aidan Roberts made the FA post break but the sequence is 'quite contrived'. Hamish climbed 'some kind of sit to Shyla Stylez'. Details https://ukbouldering.com/board/index.php/topic,26074.msg619023.html#msg619023|2020|
 |Solly Kemball-Dory|8B+|Speed of Light (x)|||2020|
 |Will Smith|8B|Fat Lip, Fat Lip SDS (x), Weeding the Lip (x)||||
 |Joe Lawson|8B|The Hourglass, Amber, Delusions of Grandeur||||
@@ -64,6 +63,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jim  Pope|8B|End Game, The Last Dance, Antidiluvian|||2020|
 |Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
 |Steve McClure|8B|Fat Lip, Close of Business||Climbed Hubble which is said to have an 8B/+ boulder problem crux||
+|Hamish McArthur|8B|Sideshow, Tracky Lords SDS (x)||Tracky Lords is the new sequence on Traci Lords SDS. Initially Aidan Roberts made the FA of Traci Lords SDS post break but the sequence is 'quite contrived'. Hamish climbed a more natural line. Details https://ukbouldering.com/board/index.php/topic,26074.msg619023.html#msg619023|2020|
 |Chris Davies|8B|Power of Goodbye, My Own Private Idaho||||
 |Ash Wolsey-Heard|8B|Fat Lip, Voyager||||
 |Haydn Jones|8B|Keen Roof, Fat Lip||||
