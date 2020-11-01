@@ -26,14 +26,13 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Sam Davenhall|8B+|At the Heart of it All, Kaizen||||
 |James Noble|8B+|Bordello SDS, Jour de Chasse||||
 |Steve Dunning|8B+|Super Furry Animals, Dreamtime (pre-break)||||
-|Matthew Wright|8B+|Belly of the Beast, Serendipity|||2019|
-|Alex Barrows|8B+|Belly of the Beast, The Wheel of Life||||
+|Matthew Wright|8B|Serendipity|||2019|
+|Alex Barrows|8B+|The Wheel of Life||||
 |Billy Ridal|8B+|Never Ending Story, Superman SDS|||2019, 2020|
 |Ben Freeman|8B+|Monk Life||||
 |Max Milne|8B+|Lord Faquhar (x)||||
 |Ben Moon|8B+|Voyager Sit||||
 |Simon Newstead|8B+|The Island||||
-|Ethan Walker|8B+|Belly of the Beast||||
 |Dave Barrans|8B+|Gecko Assiss||||
 |Nigel Callender|8B+|Monk Life||||
 |Mike Hart|8B+|Pilgrimage||||
@@ -62,6 +61,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Tom Williams|8B|Hourglass, The Ace, Louis Armstrong||||
 |Jim  Pope|8B|End Game, The Last Dance, Antidiluvian|||2020|
 |Jacob Handyside|8B|Riders on the Storm, Riverbed, Charity Bouldern|||2018|
+|Buster Martin|8B|The Vice, Belly of the Beast, Keen Roof||||
 |Steve McClure|8B|Fat Lip, Close of Business||Climbed Hubble which is said to have an 8B/+ boulder problem crux||
 |Hamish McArthur|8B|Sideshow, Tracky Lords SDS (x)||Tracky Lords is the new sequence on Traci Lords SDS. Initially Aidan Roberts made the FA of Traci Lords SDS post break but the sequence is 'quite contrived'. Hamish climbed a more natural line. Details https://ukbouldering.com/board/index.php/topic,26074.msg619023.html#msg619023|2020|
 |Chris Davies|8B|Power of Goodbye, My Own Private Idaho||||
@@ -80,6 +80,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Stuart Littlefair|8B|Jean Claude Van Lamb, Superman|||2019|
 |Finley Wood|8B|WADzilla, Godzilla SDS|||2020|
 |Martin Smith|8B|General Disarray, Superman||||
+|Ethan Walker|8B|Belly of the Beast||||
 |Euan MacFadyen|8B|King of Limbs||||
 |Ollie Torr|8B|Fat Lip||||
 |Andy Burgess|8B|Keen Roof||||
@@ -118,7 +119,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |James Garden|8B|Jean Claude Van Lamb|||2019|
 |Ricky Bell|8B|Gentlemen's Arete||||
 |Rory Fowler|8B|WADzilla||||
-|Buster Martin|8B|The Vice||||
 |Tom Randall|8B|The Kraken||||
 |Greg Chapman|8B|Walk Away||||
 |Si Moore|8B|Nothin' but Sunshine||||
