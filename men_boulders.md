@@ -80,6 +80,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Stuart Littlefair|8B|Jean Claude Van Lamb, Superman|||2019|
 |Finley Wood|8B|WADzilla, Godzilla SDS|||2020|
 |Martin Smith|8B|General Disarray, Superman||||
+|Lewis Roy|8B|Supersize Me, Sanction|||2020|
 |Ethan Walker|8B|Belly of the Beast||||
 |Euan MacFadyen|8B|King of Limbs||||
 |Ollie Torr|8B|Fat Lip||||
@@ -126,7 +127,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Leo Skinner|8B|Louis Left||||
 |Chris Smith|8B|You Can Go Now||||
 |Henry Henderson|8B|Keen Roof|||2020|
-|Lewis Roy|8B|Supersize Me|||2020|
 |Tim Blake|8B|Isle of Wonder|||2020|
 |Craig Davies|8B|Compact Culture|||2020|
 |George Newham|8B|Keen Roof|||2020|

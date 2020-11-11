@@ -10,15 +10,15 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |William Bosi|9b|La Capella|||2020|
 |Buster Martin|9a+|First Ley|||2019|
 |Tom Bolger|9a/+|Cuidad de dios|||2011|
+|Ben Moon|9a|Rainshadow, Hubble (x)|||1990, 2015|
 |Stevie Haston|9a|Descente Lolitta, Hugh|||2009, 2010|
-|Alex Barrows|9a|Era Vella, Bad Girl's Club|||2015, |
+|Alex Barrows|9a|Era Vella, Bad Girl's Club|||2015|
 |Ryan Pasquill|9a|Rainshadow, Speed Integrale, Bain de Sang|||2018, 2018, 2019|
 |James McHaffie|9a|Big Bang, The Meltdown (x)||FA of The Meltdown, one of the harder slabs in the world.|2011, 2012|
-|Ben Moon|9a|Rainshadow||Also first ascent of Hubble, the world's first 8c+/9a in 1990 (depending on who you ask).|2015|
+|Will Smith|9a|Era Vella, Estado Crítico|||2016, 2020|
 |Jordan Buys|9a|Rainshadow|||2013|
 |Stuart Littlefair|9a|Rainshadow|||2015|
 |Malcom Smith|9a|Hunger||Scotland's first 9a|2010|
-|Will Smith|9a|Era Vella|||2016|
 |Pete Dawson|9a|Rainshadow|||2018|
 |Neil Carson|9a|Big Bang|||1996|
 |Alex Waterhouse|9a|The Fly|||2019|
