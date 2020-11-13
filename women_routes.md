@@ -35,6 +35,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jemma Powell|8b|The Brute|||2020|
 |Thea Cameron|8b|Austrian Oak|||2020|
 |Jo Neame|8b|Dark Matter|||2020|
+|Jennifer Wood|8b|Gaia|||2020|
 |Anna Gilyeat|8a+|Cross 'n Angry, GBH|||2020|
 |Ako Shillitoe|8a+|Supercool||||
 |Ruth Smitton|8a+|Supercool||||
@@ -47,7 +48,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Mhairi Thorburn|8a+|Las Clochas de Targa||||
 |Flo Tilley|8a+|Bullet||||
 |Zoë Peetermans|8a+|La Femme Blanche||||
-|Jennifer Wood|8a+|Develop as You Are|||2019|
 |Helen Dudley|8a+|Path of Excess Power|||2008|
 |Kate Gascoyne|8a+|Supercool||||
 |Nicola Taylor|8a+|Supercool||||

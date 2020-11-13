@@ -74,3 +74,4 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Katherine Schirmacher|7C|Brad Pit||||
 |Tess Bennett|7C|Antihero|||2020|
 |Amber Thornton|7C|Peckitt's Traverse|||2020|
+|Elle Partington|7C|Intermezzo|||2020|
