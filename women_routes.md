@@ -17,6 +17,7 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Karin Magog|8b+|Mundo Feliz|||2017|
 |Holly Rees|8b+|Mecca|||2019|
 |Charlotte Garden|8b|Lightning, The Beer Will Taste Good|||2016|
+|Jennifer Wood|8b|Gaia, Racomelo|||2020|
 |Ruth Jenkins|8b|Zeke the Freak||First 8b by a UK woman. Also first 8a+ with Caviar.|1995|
 |Natalie Berry|8b|Satan X|||2012|
 |Jules Littlefair|8b|Predator|||2011|
@@ -35,7 +36,6 @@ Based on data from this thread [https://ukbouldering.com/board/index.php/topic,2
 |Jemma Powell|8b|The Brute|||2020|
 |Thea Cameron|8b|Austrian Oak|||2020|
 |Jo Neame|8b|Dark Matter|||2020|
-|Jennifer Wood|8b|Gaia|||2020|
 |Anna Gilyeat|8a+|Cross 'n Angry, GBH|||2020|
 |Ako Shillitoe|8a+|Supercool||||
 |Ruth Smitton|8a+|Supercool||||
