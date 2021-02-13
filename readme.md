@@ -1,5 +1,7 @@
 # Strong British People
 
+Note: the info in this repo has been migrated over to [https://climbing-history.org/](https://climbing-history.org/). This repo is no longer maintained.
+
 This is a list of strong british climbers, separated by gender and discipline. The idea is to have a list of the top 100 or so hardest sport climbers and boulderers. The grade boundaries are chosen to try and keep the list at around 100 people on each lsit.
 
 Currently the cutoff is 8a sport and 7C/V9 boulder for women, and 8c sport and 8B/V13 for men.
